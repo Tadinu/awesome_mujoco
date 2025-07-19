@@ -150,7 +150,7 @@
 - [Online Planning and Control of Physics-Based Skateboarding Animation](https://aaltodoc.aalto.fi/items/3d76eb38-cedf-473b-b19f-e6e9d604215b) - [Webpage](https://sites.google.com/view/physics-based-skateboarding)
 - https://github.com/simon-bachhuber/chain_control (Neural ODE control for kinematic chains) <img src="https://img.shields.io/github/stars/simon-bachhuber/chain_control?style=flat-square&color=yellow">
 - https://github.com/bdaiinstitute/jacta-manipulation (Dexterous + Whole-body planning) <img src="https://img.shields.io/github/stars/bdaiinstitute/jacta-manipulation?style=flat-square&color=yellow">
-- https://github.com/loongOpen/openloong-dyn-control (Humanoid whole-body control - C++, MATLAB) <img src="https://img.shields.io/github/stars/MindSpaceInc/Spot-MuJoCo-ROS2?style=flat-square&color=yellow"> <img src="https://img.shields.io/github/languages/top/loongOpen/openloong-dyn-control">
+- https://github.com/loongOpen/openloong-dyn-control <img src="https://img.shields.io/github/stars/MindSpaceInc/Spot-MuJoCo-ROS2?style=flat-square&color=yellow"> <img src="https://img.shields.io/github/languages/top/loongOpen/openloong-dyn-control"> (Humanoid whole-body control)
 
 # MPC
 - https://github.com/google-deepmind/mujoco_mpc <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_mpc?style=flat-square&color=yellow"> <img src="https://img.shields.io/github/languages/top/google-deepmind/mujoco_mpc"> [![](https://img.shields.io/badge/Talk-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2xVN-qY78P4) [![](https://img.shields.io/badge/Talk--2-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=J-JO-lgaKtw) [![](https://img.shields.io/badge/Bimanual%20handover-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=aCNCKVThKIE) [![](https://img.shields.io/badge/Quadruped-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=esLuwaWz4oE)
@@ -205,63 +205,63 @@
 - https://github.com/fhswf/MLPro-Int-MuJoCo - https://mlpro.readthedocs.io <img src="https://img.shields.io/github/stars/fhswf/MLPro-Int-MuJoCo?style=flat-square&color=yellow">
 
 ### Shadow-hand RL
-- https://github.com/google-research/robopianist
-- https://github.com/kevinzakka/robopianist-rl
-- https://github.com/leonasting/geometry-dex
-- https://github.com/kochlisGit/Shadow-Hand-Controller
-- https://github.com/Xiang-Zhang-98/Mujoco3_manipulation_sim
+- https://github.com/google-research/robopianist <img src="https://img.shields.io/github/stars/google-research/robopianist?style=flat-square&color=yellow">
+- https://github.com/kevinzakka/robopianist-rl <img src="https://img.shields.io/github/stars/kevinzakka/robopianist-rl?style=flat-square&color=yellow">
+- https://github.com/leonasting/geometry-dex <img src="https://img.shields.io/github/stars/leonasting/geometry-dex?style=flat-square&color=yellow">
+- https://github.com/kochlisGit/Shadow-Hand-Controller <img src="https://img.shields.io/github/stars/kochlisGit/Shadow-Hand-Controller?style=flat-square&color=yellow">
+- https://github.com/Xiang-Zhang-98/Mujoco3_manipulation_sim <img src="https://img.shields.io/github/stars/Xiang-Zhang-98/Mujoco3_manipulation_sim?style=flat-square&color=yellow">
 
 ### Adroit-hand RL
-- https://github.com/aravindr93/hand_dapg
+- https://github.com/aravindr93/hand_dapg <img src="https://img.shields.io/github/stars/google-research/robopianist?style=flat-square&color=yellow">
 - https://robotics.farama.org/envs/adroit_hand/index.html
 
 ## Soft-body RL
-- https://github.com/MyoHub/myosuite
-- https://github.com/Co-Evolve/brt/tree/main/biorobot/brittle_star
+- https://github.com/MyoHub/myosuite <img src="https://img.shields.io/github/stars/google-research/robopianist?style=flat-square&color=yellow">
+- https://github.com/Co-Evolve/brt/tree/main/biorobot/brittle_star <img src="https://img.shields.io/github/stars/google-research/robopianist?style=flat-square&color=yellow">
 
 ## Underactuated-Humanoid RL
-- https://github.com/TokyoRobotics/torobo_mujoco
-- https://github.com/carlosferrazza/humanoid-bench/tree/main/humanoid_bench/mjx
-- https://github.com/rohanpsingh/LearningHumanoidWalking
-- https://github.com/utra-robosoccer/unified-humanoid-getup
-- https://github.com/robfiras/loco-mujoco
-- https://github.com/microsoft/MoCapAct
-- https://github.com/jiawei-ren/diffmimic
-- https://github.com/Khrylx/RFC
+- https://github.com/TokyoRobotics/torobo_mujoco <img src="https://img.shields.io/github/stars/TokyoRobotics/torobo_mujoco?style=flat-square&color=yellow">
+- https://github.com/carlosferrazza/humanoid-bench/tree/main/humanoid_bench/mjx <img src="https://img.shields.io/github/stars/carlosferrazza/humanoid-bench?style=flat-square&color=yellow">
+- https://github.com/rohanpsingh/LearningHumanoidWalking <img src="https://img.shields.io/github/stars/rohanpsingh/LearningHumanoidWalking?style=flat-square&color=yellow">
+- https://github.com/utra-robosoccer/unified-humanoid-getup <img src="https://img.shields.io/github/stars/utra-robosoccer/unified-humanoid-getup?style=flat-square&color=yellow">
+- https://github.com/robfiras/loco-mujoco <img src="https://img.shields.io/github/stars/robfiras/loco-mujoco?style=flat-square&color=yellow">
+- https://github.com/microsoft/MoCapAct <img src="https://img.shields.io/github/stars/microsoft/MoCapAct?style=flat-square&color=yellow">
+- https://github.com/jiawei-ren/diffmimic <img src="https://img.shields.io/github/stars/jiawei-ren/diffmimic?style=flat-square&color=yellow">
+- https://github.com/Khrylx/RFC <img src="https://img.shields.io/github/stars/Khrylx/RFC?style=flat-square&color=yellow">
 
 ## Underactuated-Quadruped RL
 - [![](https://img.shields.io/badge/MJ-Playground--Quadrupedal-gray?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/google-deepmind/mujoco_playground/blob/main/learning/notebooks/locomotion.ipynb#scrollTo=_R01tjWfI-i6)
 - [![](https://img.shields.io/badge/MJ-Playground--Bipedal-gray?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/google-deepmind/mujoco_playground/blob/main/learning/notebooks/locomotion.ipynb#scrollTo=26o77FfWXvVp)
-- https://github.com/bdaiinstitute/jacta-manipulation (Whole-body planning + RL)
+- https://github.com/bdaiinstitute/jacta-manipulation <img src="https://img.shields.io/github/stars/bdaiinstitute/jacta-manipulation?style=flat-square&color=yellow"> (Whole-body planning + RL)
 
 ## Drone/Fly RL
-- https://github.com/TuragaLab/flybody
-- https://github.com/NeLy-EPFL/flygym
-- https://github.com/varadVaidya/cf2_mujoco
-- https://github.com/alefram/ingenuity-mujoco
+- https://github.com/TuragaLab/flybody <img src="https://img.shields.io/github/stars/TuragaLab/flybody?style=flat-square&color=yellow">
+- https://github.com/NeLy-EPFL/flygym <img src="https://img.shields.io/github/stars/NeLy-EPFL/flygym?style=flat-square&color=yellow">
+- https://github.com/varadVaidya/cf2_mujoco <img src="https://img.shields.io/github/stars/varadVaidya/cf2_mujoco?style=flat-square&color=yellow">
+- https://github.com/alefram/ingenuity-mujoco <img src="https://img.shields.io/github/stars/alefram/ingenuity-mujoco?style=flat-square&color=yellow">
 
 ## Vehicle RL
-- https://github.com/lachlanhurst/balance-robot-mujoco-rl
-- https://github.com/noah-boeckmann/Learning_Balance_Control_PNU2025-1
-- https://github.com/prl-mushr/mushr?tab=readme-ov-file#simulation
-- https://github.com/adipandas/gym_multirotor
-- https://github.com/luigimuratore/CtrlAltRover/tree/v1_BASE/MuJoCo
-- https://github.com/ubi-coro/gymnasium-planar-robotics
-- https://github.com/jaykorea/Isaac-RL-Two-wheel-Legged-Bot/tree/sim2sim_onnx
+- https://github.com/lachlanhurst/balance-robot-mujoco-rl <img src="https://img.shields.io/github/stars/lachlanhurst/balance-robot-mujoco-rl?style=flat-square&color=yellow">
+- https://github.com/noah-boeckmann/Learning_Balance_Control_PNU2025-1 <img src="https://img.shields.io/github/stars/noah-boeckmann/Learning_Balance_Control_PNU2025-1?style=flat-square&color=yellow">
+- https://github.com/prl-mushr/mushr?tab=readme-ov-file#simulation <img src="https://img.shields.io/github/stars/prl-mushr/mushr?style=flat-square&color=yellow">
+- https://github.com/adipandas/gym_multirotor <img src="https://img.shields.io/github/stars/adipandas/gym_multirotor?style=flat-square&color=yellow">
+- https://github.com/luigimuratore/CtrlAltRover/tree/v1_BASE/MuJoCo <img src="https://img.shields.io/github/stars/luigimuratore/CtrlAltRover?style=flat-square&color=yellow">
+- https://github.com/ubi-coro/gymnasium-planar-robotics <img src="https://img.shields.io/github/stars/ubi-coro/gymnasium-planar-robotics?style=flat-square&color=yellow">
+- https://github.com/jaykorea/Isaac-RL-Two-wheel-Legged-Bot/tree/sim2sim_onnx <img src="https://img.shields.io/github/stars/jaykorea/Isaac-RL-Two-wheel-Legged-Bot?style=flat-square&color=yellow">
 
 # Rendering
 - [![](https://img.shields.io/badge/MuJoCo-Multiple--frame--scene-gray?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/tutorial.ipynb#scrollTo=wo72mo0mGIXr)
 - [![](https://img.shields.io/badge/MuJoCo-Camera-gray?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/tutorial.ipynb#scrollTo=Zzzugf-qPExb)
 - [render_many()](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/rollout.ipynb#scrollTo=fc69d0f4)
 - [Batch visualizer](https://github.com/based-robotics/mjinx/blob/main/mjinx/visualize.py)
-- https://github.com/shacklettbp/madrona_mjx
-- https://github.com/michaal94/muble MuJoCo + Blender
+- https://github.com/shacklettbp/madrona_mjx <img src="https://img.shields.io/github/stars/shacklettbp/madrona_mjx?style=flat-square&color=yellow">
+- https://github.com/michaal94/muble <img src="https://img.shields.io/github/stars/michaal94/muble?style=flat-square&color=yellow"> MuJoCo + Blender
 - [dm_control: Depth](https://github.com/google-deepmind/dm_control/blob/main/dm_control/mujoco/engine_test.py#L64)
 - [robosuite: Depth](https://github.com/search?q=repo%3AARISE-Initiative%2Frobosuite%20depth&type=code)
-- https://github.com/Andrew-Luo1/jax_shac/blob/main/vision/2dof_ball.ipynb
+- https://github.com/Andrew-Luo1/jax_shac/blob/main/vision/2dof_ball.ipynb <img src="https://img.shields.io/github/stars/Andrew-Luo1/jax_shac?style=flat-square&color=yellow">
 
 # Synthesis
-- https://github.com/boschresearch/mj-grasp-sim
+- https://github.com/boschresearch/mj-grasp-sim <img src="https://img.shields.io/github/stars/boschresearch/mj-grasp-sim?style=flat-square&color=yellow">
 
 # [Sensors](https://mujoco.readthedocs.io/en/latest/XMLreference.html#sensor)
 
@@ -273,11 +273,11 @@
 - https://github.com/google-deepmind/mujoco/discussions/2006
 
 ## Tactile/Touch
-- https://github.com/isri-aist/MujocoTactileSensorPlugin
-- https://github.com/ubi-agni/mujoco_contact_surfaces
-- https://github.com/ubi-agni/mujoco_ros_demos/tree/noetic-devel/hydroelastic_contacts
+- https://github.com/isri-aist/MujocoTactileSensorPlugin <img src="https://img.shields.io/github/stars/isri-aist/MujocoTactileSensorPlugin?style=flat-square&color=yellow">
+- https://github.com/ubi-agni/mujoco_contact_surfaces <img src="https://img.shields.io/github/stars/ubi-agni/mujoco_contact_surfaces?style=flat-square&color=yellow">
+- https://github.com/ubi-agni/mujoco_ros_demos/tree/noetic-devel/hydroelastic_contacts <img src="https://img.shields.io/github/stars/ubi-agni/mujoco_ros_demos?style=flat-square&color=yellow">
 
 # Utils
-- https://github.com/vocdex/crazy-rotations
-- https://github.com/joonhyung-lee/mujoco-py-usage
-- https://github.com/MGross21/mujoco-toolbox
+- https://github.com/vocdex/crazy-rotations <img src="https://img.shields.io/github/stars/vocdex/crazy-rotations?style=flat-square&color=yellow">
+- https://github.com/joonhyung-lee/mujoco-py-usage <img src="https://img.shields.io/github/stars/joonhyung-lee/mujoco-py-usage?style=flat-square&color=yellow">
+- https://github.com/MGross21/mujoco-toolbox <img src="https://img.shields.io/github/stars/MGross21/mujoco-toolbox?style=flat-square&color=yellow">
