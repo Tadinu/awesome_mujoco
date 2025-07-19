@@ -17,6 +17,7 @@
 - [![](https://img.shields.io/badge/mjSpec-gray?style=flat-square&logo=googlecolab)](https://github.com/google-deepmind/mujoco/blob/main/python/mjspec.ipynb) [API test](https://github.com/google-deepmind/mujoco/blob/main/python/mujoco/specs_test.py)
 - [![](https://img.shields.io/badge/mjSpec-Procedural--Modeling-gray?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/mjspec.ipynb#scrollTo=NolxAaRn9N9r) [![](https://img.shields.io/badge/Procedural--Modeling-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=LbANnKMDOHg)
 - [dm_control: MJCF](https://github.com/google-deepmind/dm_control/tree/main/dm_control/mjcf) [![](https://img.shields.io/badge/Tutorial-gray?style=flat-square&logo=googlecolab)](https://github.com/google-deepmind/dm_control/blob/main/tutorial.ipynb) [![](https://img.shields.io/badge/Video-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=0Lw_77PErjg)
+- [![](https://img.shields.io/badge/replicate-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=5k0_wsIRAFc)
 
 ### Models
 - https://github.com/google-deepmind/mujoco/tree/main/model <img src="https://img.shields.io/github/stars/google-deepmind/mujoco?style=flat-square&color=yellow">
@@ -35,10 +36,10 @@
 
 #### - Bimanual
 - https://github.com/google-deepmind/mujoco_menagerie/tree/main/aloha - https://aloha-2.github.io
-- https://github.com/tenfoldpaper/multipanda_ros2  <img src="https://img.shields.io/github/stars/tenfoldpaper/multipanda_ros2?style=flat-square&color=yellow">
-- https://github.com/ir-lab/bimanual-imitation/tree/main/irl_control/assets  <img src="https://img.shields.io/github/stars/ir-lab/bimanual-imitation?style=flat-square&color=yellow">
-- https://github.com/Autrio/MuJoCo-Dual-Arm  <img src="https://img.shields.io/github/stars/Autrio/MuJoCo-Dual-Arm?style=flat-square&color=yellow">
-- https://github.com/vikashplus/franka_sim  <img src="https://img.shields.io/github/stars/vikashplus/franka_sim?style=flat-square&color=yellow">
+- https://github.com/tenfoldpaper/multipanda_ros2 <img src="https://img.shields.io/github/stars/tenfoldpaper/multipanda_ros2?style=flat-square&color=yellow">
+- https://github.com/ir-lab/bimanual-imitation/tree/main/irl_control/assets <img src="https://img.shields.io/github/stars/ir-lab/bimanual-imitation?style=flat-square&color=yellow">
+- https://github.com/Autrio/MuJoCo-Dual-Arm <img src="https://img.shields.io/github/stars/Autrio/MuJoCo-Dual-Arm?style=flat-square&color=yellow">
+- https://github.com/vikashplus/franka_sim <img src="https://img.shields.io/github/stars/vikashplus/franka_sim?style=flat-square&color=yellow">
 
 #### - Vehicle/Mobile
 - https://github.com/JunHeonYoon/mujoco_mecanum <img src="https://img.shields.io/github/stars/JunHeonYoon/mujoco_mecanum?style=flat-square&color=yellow">
@@ -73,14 +74,18 @@
 - https://github.com/jaykorea/Isaac-RL-Two-wheel-Legged-Bot/tree/sim2sim_onnx/assets <img src="https://img.shields.io/github/stars/jaykorea/Isaac-RL-Two-wheel-Legged-Bot?style=flat-square&color=yellow">
 
 #### - Quadruped
+- https://github.com/google-deepmind/dm_control/blob/main/dm_control/suite/quadruped.xml [![](https://img.shields.io/badge/dm_control--quadruped-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=0ORsj_E17B0)
+- https://github.com/google-deepmind/dm_control/blob/main/dm_control/suite/dog.xml [![](https://img.shields.io/badge/dm_control--dog-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=WZOUSWIgEmQ)
 - https://github.com/RoboticsDesignLab/jitterbug <img src="https://img.shields.io/github/stars/RoboticsDesignLab/jitterbug?style=flat-square&color=yellow">
 - https://github.com/google-deepmind/mujoco_menagerie/tree/main/google_barkour_vb
 - https://github.com/google-deepmind/mujoco_menagerie/tree/main/boston_dynamics_spot - https://github.com/MindSpaceInc/Spot-MuJoCo-ROS2 <img src="https://img.shields.io/github/stars/MindSpaceInc/Spot-MuJoCo-ROS2?style=flat-square&color=yellow">
 - https://github.com/google-deepmind/mujoco_menagerie/tree/main/unitree_go2
 
 #### - Tasks
-<b>Peg-in-hole</b>
-- https://github.com/Joohwan-Seo/GIC_Learning_public/tree/main/gic_env/mujoco_models/pih <img src="https://img.shields.io/github/stars/Joohwan-Seo/GIC_Learning_public?style=flat-square&color=yellow">
+- <b>Peg</b>
+  - https://github.com/Joohwan-Seo/GIC_Learning_public/tree/main/gic_env/mujoco_models/pih <img src="https://img.shields.io/github/stars/Joohwan-Seo/GIC_Learning_public?style=flat-square&color=yellow"> Peg-in-hole
+- <b>Cable</b>
+  - [![](https://img.shields.io/badge/Bimanual--cable--insertion-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=4J4tO8bb70I)
 
 #### - Others
 - [Indy7](https://github.com/A2R-Lab/indy7-sdk) - [Indy7 + Gripper](https://github.com/Joohwan-Seo/GUFIC_mujoco/tree/main/gufic_env/mujoco_models)
@@ -109,21 +114,34 @@
 - https://github.com/kevinzakka/mink - https://github.com/kevinzakka/mink/issues/2 <img src="https://img.shields.io/github/stars/kevinzakka/mink?style=flat-square&color=yellow">
 - https://alefram.github.io/posts/Basic-inverse-kinematics-in-Mujoco [![](https://img.shields.io/badge/Alefram-Inverse--Kinematics-gray?style=flat-square&logo=googlecolab)](https://github.com/alefram/blog-notebooks/blob/main/inverse_kinematics.ipynb)
 - https://github.com/ARISE-Initiative/robosuite/blob/master/robosuite/utils/ik_utils.py <img src="https://img.shields.io/github/stars/ARISE-Initiative/robosuite?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/IK%20using%20Nonlinear%20Optimization-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qMRUxFexKUc)
+- [![](https://img.shields.io/badge/IK--using--Nonlinear--Optimization-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qMRUxFexKUc)
 - https://github.com/chungmin99/pyroki <img src="https://img.shields.io/github/stars/chungmin99/pyroki?style=flat-square&color=yellow">
 - https://github.com/based-robotics/mjinx <img src="https://img.shields.io/github/stars/based-robotics/mjinx?style=flat-square&color=yellow">
 
 # Physics/Dynamics
+- https://deepmind.google/discover/blog/opening-up-a-physics-simulator-for-robotics
+- [![](https://img.shields.io/badge/Fluttering--card-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=nljr0X79vI0) [Ellipsoidal fluid model](https://mujoco.readthedocs.io/en/latest/computation/fluid.html)
 - https://github.com/commanderxa/alphalabs <img src="https://img.shields.io/github/stars/commanderxa/alphalabs?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Gravity-compensation-gray?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1zlsplgSyk59hxnw3kOJMIxAXuwxXqOHD)
 - [Simulating box impact dynamics in MuJoCo](https://pure.tue.nl/ws/portalfiles/portal/212923254/1462253_Impacts_in_MuJoCo.pdf)
 - https://www.danaukes.com/work-blog/2024-03-11-double-pendulum-inverse
 - https://www.kwesirutledge.info/thoughts/mujoco1
 - https://github.com/Aditya-gam/RigidBody-Simulation <img src="https://img.shields.io/github/stars/Aditya-gam/RigidBody-Simulation?style=flat-square&color=yellow">
-- https://roboti.us/forum/index.php?resources/tennis-racket-theorem-dzhanibekov-effect.24/history
-- https://www.roboti.us/forum/index.php?resources/tippe-top.25/history
+- https://roboti.us/forum/index.php?resources/tennis-racket-theorem-dzhanibekov-effect.24/history [![](https://img.shields.io/badge/Dzhanibekov--effect-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=0Cxl67X5wfg)
+- [![](https://img.shields.io/badge/Newton's--cradle--(tendons)-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ANdl704jbzw)
+- https://www.roboti.us/forum/index.php?resources/tippe-top.25/history [![](https://img.shields.io/badge/Tippe-top-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=pUt74LSqH2c)
+- [Simulating sand filled balls #867](https://github.com/google-deepmind/mujoco/issues/867) [![](https://img.shields.io/badge/Sand--filled--balls-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=znJcnwnIdmg)
+- https://github.com/google-deepmind/mujoco/blob/main/model/balloons/balloons.xml [![](https://img.shields.io/badge/Baloons-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-PJ6afdETUg) Gravity over-compensation (buoyancy)
+- [![](https://img.shields.io/badge/Dominos-gray?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/tutorial.ipynb#scrollTo=-SW-K9WuPGrp) [![](https://img.shields.io/badge/Dominos-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=cE3s_IfO4g4)
+## - Constraints
+ - [![](https://img.shields.io/badge/connect--and--weld--using--sites-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=kcM_oauk3ZA)
+ - [![](https://img.shields.io/badge/Constraint--islands-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/Vc1tq0fFvQA?si=fSY6AVNFe0A00gWN)
+ - https://github.com/google-deepmind/mujoco/blob/main/test/engine/testdata/catenary.xml [![](https://img.shields.io/badge/Catenary-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=I2q7D0Vda-A)
 
 # [Actuator](https://mujoco.readthedocs.io/en/latest/XMLreference.html#actuator)
+- [![](https://img.shields.io/badge/Actuator--group--toggling-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=H9qG9Zf2W44)
+- [![](https://img.shields.io/badge/Active--adhesion-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=BcHZ5BFeTmU)
+- [![](https://img.shields.io/badge/Tendon--driven-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mfAst_GB8Sk)
 
 # Control/Motion planning
 - [![](https://img.shields.io/badge/MJ-PID-gray?style=flat-square&logo=markdown)](https://github.com/google-deepmind/mujoco/blob/main/plugin/actuator/README.md)
@@ -152,9 +170,19 @@
 - https://github.com/simon-bachhuber/chain_control <img src="https://img.shields.io/github/stars/simon-bachhuber/chain_control?style=flat-square&color=yellow"> Neural ODE control for kinematic chains
 - https://github.com/bdaiinstitute/jacta-manipulation <img src="https://img.shields.io/github/stars/bdaiinstitute/jacta-manipulation?style=flat-square&color=yellow"> Dexterous + Whole-body planning
 - https://github.com/loongOpen/openloong-dyn-control <img src="https://img.shields.io/github/stars/MindSpaceInc/Spot-MuJoCo-ROS2?style=flat-square&color=yellow"> <img src="https://img.shields.io/github/languages/top/loongOpen/openloong-dyn-control"> (Humanoid whole-body control)
+- https://github.com/iiborisov/simrobs <img src="https://img.shields.io/github/stars/iiborisov/simrobs?style=flat-square&color=yellow">
+- [Catch & Carry: Reusable Neural Controllers for Vision-Guided Whole-Body Tasks](https://dl.acm.org/doi/abs/10.1145/3386569.3392474) [![](https://img.shields.io/badge/Catch--Carry-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2rQAW-8gQQk)
+- [![](https://img.shields.io/badge/Humanoid--hand--stand-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=7ojNZdSA-ts)
 
 # MPC
-- https://github.com/google-deepmind/mujoco_mpc <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_mpc?style=flat-square&color=yellow"> <img src="https://img.shields.io/github/languages/top/google-deepmind/mujoco_mpc"> [![](https://img.shields.io/badge/Talk--1-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2xVN-qY78P4) [![](https://img.shields.io/badge/Talk--2-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=J-JO-lgaKtw) [![](https://img.shields.io/badge/Bimanual%20handover-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=aCNCKVThKIE) [![](https://img.shields.io/badge/Quadruped-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=esLuwaWz4oE)
+- https://github.com/google-deepmind/mujoco_mpc <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_mpc?style=flat-square&color=yellow"> <img src="https://img.shields.io/github/languages/top/google-deepmind/mujoco_mpc">
+  - [![](https://img.shields.io/badge/Talk--1-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2xVN-qY78P4)
+  - [![](https://img.shields.io/badge/Talk--2-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=J-JO-lgaKtw)
+  - [![](https://img.shields.io/badge/Demo-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Bdx7DuAMB6o)
+  - [![](https://img.shields.io/badge/Bimanual%20handover-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=aCNCKVThKIE)
+  - [![](https://img.shields.io/badge/Quadruped-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=esLuwaWz4oE)
+  - [![](https://img.shields.io/badge/ShadowHand--Rubik--Solving-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ZRRvVWV-Muk)
+  - [![](https://img.shields.io/badge/Humanoid--Tracking-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/tEBVK-MO1Sw?si=aAe2Ejr7CiQsmEhN)
 - https://github.com/vincekurtz/hydrax <img src="https://img.shields.io/github/stars/vincekurtz/hydrax?style=flat-square&color=yellow">
 - https://github.com/iit-DLSLab/mpx <img src="https://img.shields.io/github/stars/iit-DLSLab/mpx?style=flat-square&color=yellow">
 - https://github.com/vincekurtz/gpc <img src="https://img.shields.io/github/stars/vincekurtz/gpc?style=flat-square&color=yellow">
@@ -240,6 +268,7 @@
 - https://github.com/NeLy-EPFL/flygym <img src="https://img.shields.io/github/stars/NeLy-EPFL/flygym?style=flat-square&color=yellow">
 - https://github.com/varadVaidya/cf2_mujoco <img src="https://img.shields.io/github/stars/varadVaidya/cf2_mujoco?style=flat-square&color=yellow">
 - https://github.com/alefram/ingenuity-mujoco <img src="https://img.shields.io/github/stars/alefram/ingenuity-mujoco?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Flying--moth-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=PHBy739CqGI)
 
 ## Vehicle RL
 - https://github.com/lachlanhurst/balance-robot-mujoco-rl <img src="https://img.shields.io/github/stars/lachlanhurst/balance-robot-mujoco-rl?style=flat-square&color=yellow">
@@ -251,29 +280,39 @@
 - https://github.com/jaykorea/Isaac-RL-Two-wheel-Legged-Bot/tree/sim2sim_onnx <img src="https://img.shields.io/github/stars/jaykorea/Isaac-RL-Two-wheel-Legged-Bot?style=flat-square&color=yellow">
 
 # Rendering
+- [![](https://img.shields.io/badge/MJ-Advanced--rendering-gray?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/tutorial.ipynb#scrollTo=1kOs1wTc7uCZ)
 - [![](https://img.shields.io/badge/MJ-Multiple--frame--scene-gray?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/tutorial.ipynb#scrollTo=wo72mo0mGIXr)
 - [![](https://img.shields.io/badge/MJ-Camera-gray?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/tutorial.ipynb#scrollTo=Zzzugf-qPExb)
+- [![](https://img.shields.io/badge/Orthographic--cameras-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ZXBTEIDWHhs)
 - [render_many()](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/rollout.ipynb#scrollTo=fc69d0f4)
 - [Batch visualizer](https://github.com/based-robotics/mjinx/blob/main/mjinx/visualize.py)
 - https://github.com/shacklettbp/madrona_mjx <img src="https://img.shields.io/github/stars/shacklettbp/madrona_mjx?style=flat-square&color=yellow">
 - https://github.com/michaal94/muble <img src="https://img.shields.io/github/stars/michaal94/muble?style=flat-square&color=yellow"> MuJoCo + Blender
-- [dm_control: Depth](https://github.com/google-deepmind/dm_control/blob/main/dm_control/mujoco/engine_test.py#L64)
-- [robosuite: Depth](https://github.com/search?q=repo%3AARISE-Initiative%2Frobosuite%20depth&type=code)
+- [![](https://img.shields.io/badge/MJ-Depth--rendering-gray?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/tutorial.ipynb#scrollTo=PVcpcvww9lZ8)
+  - [dm_control: Depth](https://github.com/google-deepmind/dm_control/blob/main/dm_control/mujoco/engine_test.py#L64)
+  - [robosuite: Depth](https://github.com/search?q=repo%3AARISE-Initiative%2Frobosuite%20depth&type=code)
 - https://github.com/Andrew-Luo1/jax_shac/blob/main/vision/2dof_ball.ipynb <img src="https://img.shields.io/github/stars/Andrew-Luo1/jax_shac?style=flat-square&color=yellow">
+
+# UI
+- [![](https://img.shields.io/badge/MJ--History--Viewer-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YSvWn_poqWs)
+- [![](https://img.shields.io/badge/MJ--Visualization--section-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mXVPbppGk5I)
 
 # Synthesis
 - https://github.com/boschresearch/mj-grasp-sim <img src="https://img.shields.io/github/stars/boschresearch/mj-grasp-sim?style=flat-square&color=yellow">
 
 # [Sensors](https://mujoco.readthedocs.io/en/latest/XMLreference.html#sensor)
 
-## Collision
+## - Collision
 - https://mujoco.readthedocs.io/en/latest/XMLreference.html#collision-sensors
 
-## Force
+## - Force
 - https://github.com/google-deepmind/mujoco/issues/1597
 - https://github.com/google-deepmind/mujoco/discussions/2006
 
-## Tactile/Touch
+## - Tactile/Touch
+- [![](https://img.shields.io/badge/Touch--grid--sensor--plugin-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=hqIMTNGaLF4)
+- [![](https://img.shields.io/badge/Touch--grid--visualisation-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=0LOJ3WMnqeA)
+- [![](https://img.shields.io/badge/Touch--grid--illustration-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YScjmR8LwQI)
 - https://github.com/isri-aist/MujocoTactileSensorPlugin <img src="https://img.shields.io/github/stars/isri-aist/MujocoTactileSensorPlugin?style=flat-square&color=yellow">
 - https://github.com/ubi-agni/mujoco_contact_surfaces <img src="https://img.shields.io/github/stars/ubi-agni/mujoco_contact_surfaces?style=flat-square&color=yellow">
 - https://github.com/ubi-agni/mujoco_ros_demos/tree/noetic-devel/hydroelastic_contacts <img src="https://img.shields.io/github/stars/ubi-agni/mujoco_ros_demos?style=flat-square&color=yellow">
