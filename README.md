@@ -33,6 +33,7 @@ https://github.com/google-deepmind/mujoco
 - [![](https://img.shields.io/badge/replicate-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=5k0_wsIRAFc)
 - https://github.com/kscalelabs/mujoco-scenes <img src="https://img.shields.io/github/stars/kscalelabs/mujoco-scenes?style=flat-square&color=yellow">
 - https://github.com/felixokolo/MuJoCo_tutorials <img src="https://img.shields.io/github/stars/felixokolo/MuJoCo_tutorials?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Videos-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=LHh83AO2kmw&list=PLU23uiA8naECrR5CFstLKmvvlulWO70E-)
+- https://yasunori.jp/en/2024/07/13/mujoco-model-yourself.html
 
 ## MJCF: Asset - Mesh
 - https://mujoco.readthedocs.io/en/stable/XMLreference.html#asset-mesh
