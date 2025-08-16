@@ -308,6 +308,7 @@ https://github.com/google-deepmind/mujoco
 # Learning
 - https://robosuite.ai - https://github.com/ARISE-Initiative/robosuite-task-zoo <img src="https://img.shields.io/github/stars/ARISE-Initiative/robosuite-task-zoo?style=flat-square&color=yellow">
 - https://libero-project.github.io https://github.com/Lifelong-Robot-Learning/LIBERO <img src="https://img.shields.io/github/stars/Lifelong-Robot-Learning/LIBERO?style=flat-square&color=yellow">
+- https://robocasa.ai - https://github.com/robocasa/robocasa <img src="https://img.shields.io/github/stars/robocasa/robocasa?style=flat-square&color=yellow">
 - https://github.com/MiYanDoris/GraspVLA-playground <img src="https://img.shields.io/github/stars/MiYanDoris/GraspVLA-playground?style=flat-square&color=yellow">
 
 # Reinforcement Learning (RL in brax, dm_control, mujoco-playground, gymnasium, mujoco-warp)
