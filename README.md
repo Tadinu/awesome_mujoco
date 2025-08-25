@@ -171,6 +171,16 @@
 ## SDF -> MJCF
 - https://github.com/gazebosim/gz-mujoco/blob/main/sdformat_mjcf/README.md <img src="https://img.shields.io/github/stars/gazebosim/gz-mujoco?style=flat-square&color=yellow">
 
+# MoCap bodies
+- https://mujoco.readthedocs.io/en/stable/modeling.html#mocap-bodies
+- [mjData.mocap_pos/mocap_quat](https://mujoco.readthedocs.io/en/stable/programming/simulation.html#:~:text=forward%20dynamics%20are-,mjData.mocap_pos%20and%20mjData.mocap_quat,-.%20These%20quantities%20are)
+- https://github.com/google-deepmind/dm_control/tree/main/dm_control/locomotion/mocap <img src="https://img.shields.io/github/stars/google-deepmind/dm_control?style=flat-square&color=yellow">
+- https://github.com/kevincheng3/mocap-control <img src="https://img.shields.io/github/stars/kevincheng3/mocap-control?style=flat-square&color=yellow">
+- https://github.com/mochan-b/mujoco_mocap_tutorial <img src="https://img.shields.io/github/stars/mochan-b/mujoco_mocap_tutorial?style=flat-square&color=yellow">
+  - https://mochan.org/posts/mujoco_mocap_1
+  - https://mochan.org/posts/mujoco-mocap-2
+- https://github.com/google-deepmind/mujoco/discussions/1965
+
 # Optimization
 - https://github.com/google-deepmind/mujoco/blob/main/python/mujoco/minimize.py
 - [![](https://img.shields.io/badge/MJ-Least--Squares-gray?style=flat-square&logo=googlecolab)](https://github.com/google-deepmind/mujoco/blob/main/python/least_squares.ipynb)
