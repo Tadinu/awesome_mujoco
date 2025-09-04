@@ -118,6 +118,9 @@
 - https://github.com/google-deepmind/mujoco_menagerie/tree/main/hello_robot_stretch_3
 
 ### - Models: Humanoid/Biped
+- https://github.com/google-deepmind/mujoco_menagerie/tree/main/agility_cassie
+  - https://github.com/osudrl/cassie-mujoco-sim <img src="https://img.shields.io/github/stars/osudrl/cassie-mujoco-sim?style=flat-square&color=yellow">
+  - https://github.com/DAIRLab/cassie-mujoco-sim/tree/mujoco_315
 - https://github.com/TokyoRobotics/torobo_mujoco <img src="https://img.shields.io/github/stars/TokyoRobotics/torobo_mujoco?style=flat-square&color=yellow"> - [MJ Menagerie](https://github.com/google-deepmind/mujoco_menagerie/issues/113)
 - https://github.com/google-deepmind/mujoco_menagerie/tree/main/apptronik_apollo
 - https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_talos
