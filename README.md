@@ -667,6 +667,7 @@ with Xvfb(width=720, height=4801080) as xvfb: # -> xvfb will delete its own lock
 - https://github.com/ubi-agni/mujoco_ros_demos <img src="https://img.shields.io/github/stars/ubi-agni/mujoco_ros_demos?style=flat-square&color=yellow">
 - https://github.com/ubi-agni/mujoco_ros_pkgs <img src="https://img.shields.io/github/stars/ubi-agni/mujoco_ros_pkgs?style=flat-square&color=yellow">
 - https://github.com/ubi-agni/franka_ros_mujoco <img src="https://img.shields.io/github/stars/ubi-agni/franka_ros_mujoco?style=flat-square&color=yellow">
+- https://github.com/Woolfrey/mujoco_ros2 <img src="https://img.shields.io/github/stars/Woolfrey/mujoco_ros2?style=flat-square&color=yellow">
 - https://github.com/peterdavidfagan/mujoco_ros <img src="https://img.shields.io/github/stars/peterdavidfagan/mujoco_ros?style=flat-square&color=yellow">
 - https://github.com/saga0619/mujoco_ros_sim <img src="https://img.shields.io/github/stars/saga0619/mujoco_ros_sim?style=flat-square&color=yellow">
 - https://github.com/tenfoldpaper/multipanda_ros2/tree/humble/franka_description/mujoco <img src="https://img.shields.io/github/stars/tenfoldpaper/multipanda_ros2?style=flat-square&color=yellow">
