@@ -18,8 +18,8 @@
 - [![](https://img.shields.io/badge/MJX-Tutorial-gray?style=flat-square&logo=googlecolab)](https://github.com/google-deepmind/mujoco/blob/main/mjx/tutorial.ipynb)
 - MJX Viewer: https://github.com/google-deepmind/mujoco/blob/main/mjx/mujoco/mjx/viewer.py
 - https://github.com/google-deepmind/mujoco/issues/2813
-- https://github.com/google/brax
-- https://github.com/ami-iit/jaxsim
+- https://github.com/google/brax <img src="https://img.shields.io/github/starsgoogle/brax?style=flat-square&color=yellow">
+- https://github.com/ami-iit/jaxsim <img src="https://img.shields.io/github/stars/ami-iit/jaxsim?style=flat-square&color=yellow">
 - https://github.com/patsyuk03/MJX_Tutorial <img src="https://img.shields.io/github/stars/patsyuk03/MJX_Tutorial?style=flat-square&color=yellow">
 - https://github.com/martius-lab/diffmjx <img src="https://img.shields.io/github/stars/martius-lab/diffmjx?style=flat-square&color=yellow">
 - https://github.com/martius-lab/mjx_diffrax <img src="https://img.shields.io/github/stars/martius-lab/mjx_diffrax?style=flat-square&color=yellow">
