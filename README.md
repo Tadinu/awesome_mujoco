@@ -21,6 +21,8 @@
 - https://github.com/google/brax
 - https://github.com/ami-iit/jaxsim
 - https://github.com/patsyuk03/MJX_Tutorial <img src="https://img.shields.io/github/stars/patsyuk03/MJX_Tutorial?style=flat-square&color=yellow">
+- https://github.com/martius-lab/diffmjx <img src="https://img.shields.io/github/stars/martius-lab/diffmjx?style=flat-square&color=yellow">
+- https://github.com/martius-lab/mjx_diffrax <img src="https://img.shields.io/github/stars/martius-lab/mjx_diffrax?style=flat-square&color=yellow">
 
 ## MJW/WARP
 - https://mujoco.readthedocs.io/en/stable/mjwarp
