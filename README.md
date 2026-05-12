@@ -184,6 +184,9 @@ Eg:
 - https://github.com/google-deepmind/mujoco_menagerie/tree/main/unitree_h1
 - https://github.com/google-deepmind/mujoco_menagerie/tree/main/unitree_g1
 - https://github.com/unitreerobotics/unitree_mujoco <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_mujoco?style=flat-square&color=yellow">
+- https://github.com/limxdynamics
+  - https://github.com/limxdynamics/humanoid-mujoco-sim <img src="https://img.shields.io/github/stars/limxdynamics/humanoid-mujoco-sim?style=flat-square&color=yellow">
+  - https://github.com/limxdynamics/tron1-mujoco-sim <img src="https://img.shields.io/github/stars/limxdynamics/tron1-mujoco-sim?style=flat-square&color=yellow">
 - https://github.com/siddharthdeore/icub_mujoco  <img src="https://img.shields.io/github/stars/siddharthdeore/icub_mujoco?style=flat-square&color=yellow"> 
 - https://github.com/utra-robosoccer/unified-humanoid-getup  <img src="https://img.shields.io/github/stars/utra-robosoccer/unified-humanoid-getup?style=flat-square&color=yellow">
 - https://github.com/bxirobotics/robot_models <img src="https://img.shields.io/github/stars/bxirobotics/robot_models?style=flat-square&color=yellow"> 
