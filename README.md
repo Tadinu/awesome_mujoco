@@ -364,6 +364,7 @@ Eg:
 
 # Motion planning
 - https://github.com/joonhyung-lee/mujoco-robotics-usage <img src="https://img.shields.io/github/stars/joonhyung-lee/mujoco-robotics-usage?style=flat-square&color=yellow">
+- https://github.com/luaiabuelsamen/VentionMotionPlanner <img src="https://img.shields.io/github/stars/luaiabuelsamen/VentionMotionPlanner?style=flat-square&color=yellow">
 - https://github.com/mpflueger/mujoco-ompl <img src="https://img.shields.io/github/stars/mpflueger/mujoco-ompl?style=flat-square&color=yellow">
 - https://github.com/zniihgnexy/niryo_project <img src="https://img.shields.io/github/stars/zniihgnexy/niryo_project?style=flat-square&color=yellow"> MuJoCo + LLM
 - https://github.com/bdaiinstitute/jacta-manipulation <img src="https://img.shields.io/github/stars/bdaiinstitute/jacta-manipulation?style=flat-square&color=yellow"> Dexterous + Whole-body planning
