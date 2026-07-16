@@ -150,6 +150,7 @@ Eg:
 ### - Models: Arm
 - [Indy7](https://github.com/A2R-Lab/indy7-sdk) - [Indy7 + FT-Gripper](https://github.com/Joohwan-Seo/GUFIC_mujoco/tree/main/gufic_env/mujoco_models)
 - Doosan m1013 & m0609: [MJ Menagerie](https://github.com/google-deepmind/mujoco_menagerie/issues/175) - https://github.com/KisangPark/mujoco_practice
+- [SO-100/SO-101](https://github.com/TheRobotStudio/SO-ARM100) - [MJ Menagerie](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotstudio_so101)
 
 ### - Models: Bimanual
 - https://github.com/google-deepmind/mujoco_menagerie/tree/main/aloha - https://aloha-2.github.io
@@ -534,6 +535,9 @@ Eg:
 - https://github.com/aravindr93/hand_dapg <img src="https://img.shields.io/github/stars/aravindr93/hand_dapg?style=flat-square&color=yellow">
 - https://github.com/Director-of-G/hand_dapg/tree/devel_jyp <img src="https://img.shields.io/github/stars/Director-of-G/hand_dapg?style=flat-square&color=yellow"> on LeapHand + Contact tracking
 - https://github.com/GT-STAR-Lab/KODex <img src="https://img.shields.io/github/stars/GT-STAR-Lab/KODex?style=flat-square&color=yellow">
+
+### RL: SO Arm
+- https://github.com/johnsutor/so101-nexus <img src="https://img.shields.io/github/stars/johnsutor/so101-nexus?style=flat-square&color=yellow">
 
 ## RL: Soft-body
 - https://github.com/MyoHub/myosuite <img src="https://img.shields.io/github/stars/google-research/robopianist?style=flat-square&color=yellow">
