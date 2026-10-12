@@ -34,6 +34,7 @@
 - https://github.com/google-deepmind/mujoco_playground/discussions/197
 - https://github.com/mujocolab/mjlab <img src="https://img.shields.io/github/stars/mujocolab/mjlab?style=flat-square&color=yellow">
   - https://github.com/mujocolab/mjlab_playground <img src="https://img.shields.io/github/stars/mujocolab/mjlab_playground?style=flat-square&color=yellow">
+- https://github.com/robosimstudio/robosimstudio <img src="https://img.shields.io/github/stars/robosimstudio/robosimstudio?style=flat-square&color=yellow">
 
 # WASM
 - https://github.com/zalo/mujoco_wasm <img src="https://img.shields.io/github/stars/zalo/mujoco_wasm?style=flat-square&color=yellow"> - https://zalo.github.io/mujoco_wasm
@@ -42,7 +43,9 @@
 # IN-BROWSER
 - https://github.com/mujocolab/mjviser <img src="https://img.shields.io/github/stars/mujocolab/mjviser?style=flat-square&color=yellow">
 - https://github.com/robola-dev/robola <img src="https://img.shields.io/github/stars/robola-dev/robola?style=flat-square&color=yellow"> https://github.com/google-deepmind/mujoco/discussions/2999
-- https://github.com/markusgrotz/mujoco-scene-editor <img src="https://img.shields.io/github/stars//markusgrotz/mujoco-scene-editor?style=flat-square&color=yellow">
+- https://github.com/markusgrotz/mujoco-scene-editor <img src="https://img.shields.io/github/stars/markusgrotz/mujoco-scene-editor?style=flat-square&color=yellow">
+- https://imchong.github.io/Robot_Retarget_Online - https://github.com/ImChong/Robot_Retarget_Online <img src="https://img.shields.io/github/stars/ImChong/Robot_Retarget_Online?style=flat-square&color=yellow">
+- https://imchong.github.io/Robot_Learning_Sim2Sim_Online
 
 # Rollout
 <a id="rollout"/>
@@ -166,6 +169,8 @@ Eg:
 - https://github.com/vikashplus/franka_sim <img src="https://img.shields.io/github/stars/vikashplus/franka_sim?style=flat-square&color=yellow">
 - https://github.com/enactic/openarm_mujoco <img src="https://img.shields.io/github/stars/enactic/openarm_mujoco?style=flat-square&color=yellow">
 - https://github.com/TrossenRobotics/trossen_arm_mujoco <img src="https://img.shields.io/github/stars/TrossenRobotics/trossen_arm_mujoco?style=flat-square&color=yellow">
+- https://github.com/ROBOTIS-GIT/robotis_mujoco_menagerie <img src="https://img.shields.io/github/stars/ROBOTIS-GIT/robotis_mujoco_menagerie?style=flat-square&color=yellow">
+- https://github.com/RobotControlStack/duobench/tree/master/assets <img src="https://img.shields.io/github/stars/RobotControlStack/duobench?style=flat-square&color=yellow">
 
 ### - Models: Multi-arms
 - https://github.com/Tsinghua-Space-Robot-Learning-Group/SpaceOctopus <img src="https://img.shields.io/github/stars/Tsinghua-Space-Robot-Learning-Group/SpaceOctopus?style=flat-square&color=yellow">
@@ -196,6 +201,7 @@ Eg:
 - https://github.com/google-deepmind/mujoco_menagerie/tree/main/unitree_h1
 - https://github.com/google-deepmind/mujoco_menagerie/tree/main/unitree_g1
 - https://github.com/unitreerobotics/unitree_mujoco <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_mujoco?style=flat-square&color=yellow">
+  - https://github.com/ccrpRepo/wbc_fsm <img src="https://img.shields.io/github/stars/ccrpRepo/wbc_fsm?style=flat-square&color=yellow">
 - https://github.com/limxdynamics
   - https://github.com/limxdynamics/humanoid-mujoco-sim <img src="https://img.shields.io/github/stars/limxdynamics/humanoid-mujoco-sim?style=flat-square&color=yellow">
   - https://github.com/limxdynamics/tron1-mujoco-sim <img src="https://img.shields.io/github/stars/limxdynamics/tron1-mujoco-sim?style=flat-square&color=yellow">
@@ -307,9 +313,10 @@ Eg:
 - https://scaron.info/robotics/differential-inverse-kinematics.html - https://manipulation.csail.mit.edu/pick.html#jacobian
 - [MJ Gauss-Newton IK](https://github.com/Joohwan-Seo/GUFIC_mujoco/blob/main/gufic_env/utils/robot_state.py#L190)
 - https://github.com/kevinzakka/mink - https://github.com/kevinzakka/mink/issues/2 <img src="https://img.shields.io/github/stars/kevinzakka/mink?style=flat-square&color=yellow">
-- https://github.com/martantoine/Minc <img src="https://img.shields.io/github/stars/martantoine/Minc?style=flat-square&color=yellow">
+  - https://github.com/martantoine/Minc <img src="https://img.shields.io/github/stars/martantoine/Minc?style=flat-square&color=yellow">
+  - https://github.com/based-robotics/mjinx <img src="https://img.shields.io/github/stars/based-robotics/mjinx?style=flat-square&color=yellow">
+  - https://github.com/simeon-ned/mink-warp <img src="https://img.shields.io/github/stars/simeon-ned/mink-warp?style=flat-square&color=yellow">
 - https://github.com/chungmin99/pyroki <img src="https://img.shields.io/github/stars/chungmin99/pyroki?style=flat-square&color=yellow">
-- https://github.com/based-robotics/mjinx <img src="https://img.shields.io/github/stars/based-robotics/mjinx?style=flat-square&color=yellow">
 - https://github.com/danielpmorton/frax <img src="https://img.shields.io/github/stars/danielpmorton/frax?style=flat-square&color=yellow">
 - https://github.com/uwgraphics/relaxed_ik_mujoco <img src="https://img.shields.io/github/stars/uwgraphics/relaxed_ik_mujoco?style=flat-square&color=yellow">
 - https://alefram.github.io/posts/Basic-inverse-kinematics-in-Mujoco [![](https://img.shields.io/badge/Alefram-Inverse--Kinematics-gray?style=flat-square&logo=googlecolab)](https://github.com/alefram/blog-notebooks/blob/main/inverse_kinematics.ipynb)
@@ -403,6 +410,7 @@ Eg:
 - https://github.com/bdaiinstitute/jacta-manipulation <img src="https://img.shields.io/github/stars/bdaiinstitute/jacta-manipulation?style=flat-square&color=yellow"> Dexterous + Whole-body planning
 - https://github.com/adlarkin/mjpl <img src="https://img.shields.io/github/stars/adlarkin/mjpl?style=flat-square&color=yellow"> utilizing [mink](https://github.com/kevinzakka/mink)
 - https://github.com/wisdomagboh/multi-object-grasping <img src="https://img.shields.io/github/stars/wisdomagboh/multi-object-grasping?style=flat-square&color=yellow"> https://sites.google.com/view/multi-object-grasping
+- https://github.com/personalrobotics/sscbirrt <img src="https://img.shields.io/github/stars/personalrobotics/sscbirrt?style=flat-square&color=yellow">
 
 # Control
 - https://mujoco.readthedocs.io/en/stable/programming/simulation.html#state-and-control
@@ -492,6 +500,7 @@ Eg:
 - https://robocasa.ai - https://github.com/robocasa/robocasa <img src="https://img.shields.io/github/stars/robocasa/robocasa?style=flat-square&color=yellow">
 - https://allenai.org/embodied-ai - https://github.com/allenai/molmospaces <img src="https://img.shields.io/github/stars/allenai/molmospaces?style=flat-square&color=yellow">
 - https://zero2robot.com - https://github.com/kaushikb11/zero2robot <img src="https://img.shields.io/github/stars/kaushikb11/zero2robot?style=flat-square&color=yellow"> - https://github.com/google-deepmind/mujoco/discussions/3398
+- https://robosimstudio.github.io - https://github.com/robosimstudio/robosimstudio <img src="https://img.shields.io/github/stars/robosimstudio/robosimstudio?style=flat-square&color=yellow">
 
 # Reinforcement Learning (RL in Brax, Mujoco Warp, dm_control, Mujoco Playground, gymnasium, etc.)
 - https://research.mels.ai/ide
@@ -571,6 +580,8 @@ Eg:
 - https://github.com/google-deepmind/dm_control/tree/main/dm_control/locomotion <img src="https://img.shields.io/github/stars/google-deepmind/dm_control?style=flat-square&color=yellow">
 - https://github.com/mujocolab/g1_spinkick_example <img src="https://img.shields.io/github/stars/mujocolab/g1_spinkick_example?style=flat-square&color=yellow">
   - https://github.com/unitreerobotics/unitree_rl_mjlab <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_mjlab?style=flat-square&color=yellow">
+  - https://github.com/ccrpRepo/AMP_mjlab <img src="https://img.shields.io/github/stars/ccrpRepo/AMP_mjlab?style=flat-square&color=yellow">
+- https://github.com/ccrpRepo/wbc_fsm <img src="https://img.shields.io/github/stars/ccrpRepo/wbc_fsm?style=flat-square&color=yellow">
 - https://github.com/goncalog/ai-robotics <img src="https://img.shields.io/github/stars/goncalog/ai-robotics?style=flat-square&color=yellow">
 - https://github.com/TokyoRobotics/torobo_mujoco <img src="https://img.shields.io/github/stars/TokyoRobotics/torobo_mujoco?style=flat-square&color=yellow">
 - https://github.com/rohanpsingh/LearningHumanoidWalking <img src="https://img.shields.io/github/stars/rohanpsingh/LearningHumanoidWalking?style=flat-square&color=yellow">
