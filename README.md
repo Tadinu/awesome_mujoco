@@ -166,6 +166,8 @@ Eg:
 - https://github.com/vikashplus/franka_sim <img src="https://img.shields.io/github/stars/vikashplus/franka_sim?style=flat-square&color=yellow">
 - https://github.com/enactic/openarm_mujoco <img src="https://img.shields.io/github/stars/enactic/openarm_mujoco?style=flat-square&color=yellow">
 - https://github.com/TrossenRobotics/trossen_arm_mujoco <img src="https://img.shields.io/github/stars/TrossenRobotics/trossen_arm_mujoco?style=flat-square&color=yellow">
+- https://github.com/ROBOTIS-GIT/robotis_mujoco_menagerie <img src="https://img.shields.io/github/stars/ROBOTIS-GIT/robotis_mujoco_menagerie?style=flat-square&color=yellow">
+- https://github.com/RobotControlStack/duobench/tree/master/assets <img src="https://img.shields.io/github/stars/RobotControlStack/duobench?style=flat-square&color=yellow">
 
 ### - Models: Multi-arms
 - https://github.com/Tsinghua-Space-Robot-Learning-Group/SpaceOctopus <img src="https://img.shields.io/github/stars/Tsinghua-Space-Robot-Learning-Group/SpaceOctopus?style=flat-square&color=yellow">
@@ -403,6 +405,7 @@ Eg:
 - https://github.com/bdaiinstitute/jacta-manipulation <img src="https://img.shields.io/github/stars/bdaiinstitute/jacta-manipulation?style=flat-square&color=yellow"> Dexterous + Whole-body planning
 - https://github.com/adlarkin/mjpl <img src="https://img.shields.io/github/stars/adlarkin/mjpl?style=flat-square&color=yellow"> utilizing [mink](https://github.com/kevinzakka/mink)
 - https://github.com/wisdomagboh/multi-object-grasping <img src="https://img.shields.io/github/stars/wisdomagboh/multi-object-grasping?style=flat-square&color=yellow"> https://sites.google.com/view/multi-object-grasping
+- https://github.com/personalrobotics/sscbirrt <img src="https://img.shields.io/github/stars/personalrobotics/sscbirrt?style=flat-square&color=yellow">
 
 # Control
 - https://mujoco.readthedocs.io/en/stable/programming/simulation.html#state-and-control
