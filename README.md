@@ -617,6 +617,7 @@ Eg:
 - https://github.com/isri-aist/RoboManipBaselines <img src="https://img.shields.io/github/stars/isri-aist/RoboManipBaselines?style=flat-square&color=yellow">
 - https://github.com/jeongeun980906/lerobot-mujoco-tutorial <img src="https://img.shields.io/github/stars/jeongeun980906/lerobot-mujoco-tutorial?style=flat-square&color=yellow">ACT (Action-Chunking-Transformer)
 - https://github.com/ir-lab/bimanual-imitation <img src="https://img.shields.io/github/stars/ir-lab/bimanual-imitation?style=flat-square&color=yellow">
+- https://github.com/RobotControlStack/duobench <img src="https://img.shields.io/github/stars/RobotControlStack/duobench?style=flat-square&color=yellow">
 - https://github.com/NVlabs/Optimus <img src="https://img.shields.io/github/stars/NVlabs/Optimus?style=flat-square&color=yellow">
 - https://github.com/princeton-vl/FetchBench-Imit <img src="https://img.shields.io/github/stars/princeton-vl/FetchBench-Imit?style=flat-square&color=yellow">
 - https://github.com/yzqin/dexmv-learn <img src="https://img.shields.io/github/stars/yzqin/dexmv-learn?style=flat-square&color=yellow">
