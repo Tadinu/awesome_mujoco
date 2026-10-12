@@ -166,6 +166,7 @@ Eg:
 - https://github.com/vikashplus/franka_sim <img src="https://img.shields.io/github/stars/vikashplus/franka_sim?style=flat-square&color=yellow">
 - https://github.com/enactic/openarm_mujoco <img src="https://img.shields.io/github/stars/enactic/openarm_mujoco?style=flat-square&color=yellow">
 - https://github.com/TrossenRobotics/trossen_arm_mujoco <img src="https://img.shields.io/github/stars/TrossenRobotics/trossen_arm_mujoco?style=flat-square&color=yellow">
+- https://github.com/RobotControlStack/duobench/tree/master/assets <img src="https://img.shields.io/github/stars/RobotControlStack/duobench?style=flat-square&color=yellow">
 
 ### - Models: Multi-arms
 - https://github.com/Tsinghua-Space-Robot-Learning-Group/SpaceOctopus <img src="https://img.shields.io/github/stars/Tsinghua-Space-Robot-Learning-Group/SpaceOctopus?style=flat-square&color=yellow">
