@@ -609,6 +609,7 @@ Eg:
 - https://github.com/NeLy-EPFL/flygym <img src="https://img.shields.io/github/stars/NeLy-EPFL/flygym?style=flat-square&color=yellow">
 - https://github.com/varadVaidya/cf2_mujoco <img src="https://img.shields.io/github/stars/varadVaidya/cf2_mujoco?style=flat-square&color=yellow">
 - https://github.com/alefram/ingenuity-mujoco <img src="https://img.shields.io/github/stars/alefram/ingenuity-mujoco?style=flat-square&color=yellow">
+- https://github.com/alextitonis/fly.ai/tree/main/drone <img src="https://img.shields.io/github/stars/alextitonis/fly.ai?style=flat-square&color=yellow"> Whole fruit-fly connectome (MaleCNS, 166,700 neurons) pilots the Menagerie Crazyflie 2, no training
 - [![](https://img.shields.io/badge/Flying--moth-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/PHBy739CqGI)
 
 ## RL: Vehicle
