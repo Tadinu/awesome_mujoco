@@ -49,6 +49,7 @@
 
 # Rollout
 <a id="rollout"/>
+
 - https://mujoco.readthedocs.io/en/stable/python.html#pyrollout
 - https://mujoco.readthedocs.io/en/latest/python.html#code-sample-open-loop-rollout
 - [![](https://img.shields.io/badge/MJ-Rollout-gray?style=flat-square&logo=googlecolab)](https://github.com/google-deepmind/mujoco/blob/main/python/rollout.ipynb)
@@ -300,6 +301,7 @@ Eg:
 - https://github.com/based-robotics/mujoco-sysid <img src="https://img.shields.io/github/stars/based-robotics/mujoco-sysid?style=flat-square&color=yellow">
 
 # Hardware compatibility
+- https://github.com/Muhammad540/Torq <img src="https://img.shields.io/github/stars/Muhammad540/Torq?style=flat-square&color=yellow">
 - https://github.com/BarisYazici/libfranka-sim <img src="https://img.shields.io/github/stars/BarisYazici/libfranka-sim?style=flat-square&color=yellow">
 - https://github.com/JeanElsner/dm_robotics_panda <img src="https://img.shields.io/github/stars/JeanElsner/dm_robotics_panda?style=flat-square&color=yellow">
 - https://github.com/ZC502/SIPA <img src="https://img.shields.io/github/stars/ZC502/SIPA?style=flat-square&color=yellow"> - https://github.com/google-deepmind/mujoco/discussions/3151
