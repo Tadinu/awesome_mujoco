@@ -68,6 +68,7 @@
 - https://yasunori.jp/en/2024/07/13/mujoco-model-yourself.html
 - https://github.com/HiroIshida/mujoco-xml-editor <img src="https://img.shields.io/github/stars/HiroIshida/mujoco-xml-editor?style=flat-square&color=yellow">
 - https://github.com/dtorre38/mujoco-xml-creator <img src="https://img.shields.io/github/stars/dtorre38/mujoco-xml-creator?style=flat-square&color=yellow">
+- https://github.com/ericzhubonnie-glitch/mjcf-doctor <img src="https://img.shields.io/github/stars/ericzhubonnie-glitch/mjcf-doctor?style=flat-square&color=yellow"> — linter for the silent failures: dead collision masks, over-soft solref, inertia off by 10^6
 
 ## MJCF: Schema
 - https://github.com/google-deepmind/mujoco/issues/6
