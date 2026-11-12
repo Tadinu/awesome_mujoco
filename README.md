@@ -56,6 +56,7 @@
 - https://github.com/mujocolab/mjlab <img src="https://img.shields.io/github/stars/mujocolab/mjlab?style=flat-square&color=yellow">
   - https://github.com/mujocolab/mjlab_playground <img src="https://img.shields.io/github/stars/mujocolab/mjlab_playground?style=flat-square&color=yellow">
 - https://github.com/robosimstudio/robosimstudio <img src="https://img.shields.io/github/stars/robosimstudio/robosimstudio?style=flat-square&color=yellow">
+- https://github.com/argonrobotics-ai/alloy <img src="https://img.shields.io/github/stars/argonrobotics-ai/alloy?style=flat-square&color=yellow"> Multi-material, GPU-parallel physics engine for robot learning (robots, cloth, cables, liquids, sand and soft bodies in one scene), built on MuJoCo Warp and Newton. Apache-2.0.
 
 # Rollout
 <a id="rollout"/>
