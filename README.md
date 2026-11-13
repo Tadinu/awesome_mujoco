@@ -250,6 +250,7 @@ Eg:
   - https://github.com/machines-in-motion/Go2Py <img src="https://img.shields.io/github/stars/machines-in-motion/Go2Py?style=flat-square&color=yellow">
 - https://github.com/nimesh00/mjsim_quad <img src="https://img.shields.io/github/stars/nimesh00/mjsim_quad?style=flat-square&color=yellow">
 - https://github.com/unitreerobotics/unitree_mujoco <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_mujoco?style=flat-square&color=yellow">
+- https://github.com/Greg-Aster/Ainekio-bot <img src="https://img.shields.io/github/stars/Greg-Aster/Ainekio-bot?style=flat-square&color=yellow"> - [ainek.io](https://ainek.io)
 
 ### - Models: Kitchen
 - https://github.com/robocasa/robocasa/tree/main/robocasa/models <img src="https://img.shields.io/github/stars/robocasa/robocasa?style=flat-square&color=yellow">
@@ -284,6 +285,7 @@ Eg:
 ## Blender -> MJCF
 - [dm_control: Blender -> MJCF](https://github.com/google-deepmind/dm_control/tree/main/dm_control/blender)
 - https://github.com/Balint-H/blender-mjcf <img src="https://img.shields.io/github/stars/Balint-H/blender-mjcf?style=flat-square&color=yellow">
+- https://github.com/Greg-Aster/Ainekio-bot/blob/dev/Master/gateway/neural_gait/export_blender.py <img src="https://img.shields.io/github/stars/Greg-Aster/Ainekio-bot?style=flat-square&color=yellow"> -> Closed-loop 4-bar quadruped Blender -> MJCF exporter
 
 ## URDF -> MJCF
 - https://github.com/FFTAI/Wiki-MJCF <img src="https://img.shields.io/github/stars/FFTAI/Wiki-MJCF?style=flat-square&color=yellow">
