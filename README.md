@@ -5,11 +5,11 @@
 - https://github.com/google-deepmind/dm_robotics <img src="https://img.shields.io/github/stars/google-deepmind/dm_robotics?style=flat-square&color=yellow">
 
 # Studio
-- [MuJoCo Studio](https://mujoco.readthedocs.io/en/stable/studio/index.html) https://github.com/google-deepmind/mujoco/tree/main/studio
+- [MuJoCo Studio](https://mujoco.readthedocs.io/en/stable/studio/index.html) https://github.com/google-deepmind/mujoco/tree/main/studio A Python and C++ SDK for building interactive simulations, research tools, and custom visualizers that run in a native desktop window or in a web browser with no changes to user code
 
 # Playground
-- [MuJoCo Playground](https://playground.mujoco.org) https://github.com/google-deepmind/mujoco_playground <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_playground?style=flat-square&color=yellow">
-- [reaf-sim](https://reaf-sim.readthedocs.io) https://github.com/google-deepmind/reaf-sim <img src="https://img.shields.io/github/stars/google-deepmind/reaf-sim?style=flat-square&color=yellow">
+- [MuJoCo Playground](https://playground.mujoco.org) https://github.com/google-deepmind/mujoco_playground <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_playground?style=flat-square&color=yellow"> An open-source library for sim and real robot demos on top of MuJoCo
+- [reaf-sim](https://reaf-sim.readthedocs.io) https://github.com/google-deepmind/reaf-sim <img src="https://img.shields.io/github/stars/google-deepmind/reaf-sim?style=flat-square&color=yellow"> Native MuJoCo environment authoring framework built for robotics
 
 # IN-BROWSER
 - https://live.mujoco.org - https://mujoco.readthedocs.io/en/stable/studio/web_viewers.html
@@ -39,24 +39,27 @@
 - [![](https://img.shields.io/badge/MJX-Tutorial-gray?style=flat-square&logo=googlecolab)](https://github.com/google-deepmind/mujoco/blob/main/mjx/tutorial.ipynb)
 - MJX Viewer: https://github.com/google-deepmind/mujoco/blob/main/mjx/mujoco/mjx/viewer.py
 - https://github.com/google-deepmind/mujoco/issues/2813
-- https://github.com/google/brax <img src="https://img.shields.io/github/stars/google/brax?style=flat-square&color=yellow">
-- https://github.com/ami-iit/jaxsim <img src="https://img.shields.io/github/stars/ami-iit/jaxsim?style=flat-square&color=yellow">
+- https://github.com/google/brax <img src="https://img.shields.io/github/stars/google/brax?style=flat-square&color=yellow"> Massively parallel rigidbody physics simulation on accelerator hardware
+- https://github.com/ami-iit/jaxsim <img src="https://img.shields.io/github/stars/ami-iit/jaxsim?style=flat-square&color=yellow"> A differentiable physics engine and multibody dynamics library for control and robot learning
 - https://github.com/patsyuk03/MJX_Tutorial <img src="https://img.shields.io/github/stars/patsyuk03/MJX_Tutorial?style=flat-square&color=yellow">
-- https://github.com/martius-lab/diffmjx <img src="https://img.shields.io/github/stars/martius-lab/diffmjx?style=flat-square&color=yellow">
-- https://github.com/martius-lab/mjx_diffrax <img src="https://img.shields.io/github/stars/martius-lab/mjx_diffrax?style=flat-square&color=yellow">
-- https://github.com/OpenSCvx/OpenSCvx/blob/main/openscvx/integrations/mjx.py <img src="https://img.shields.io/github/stars/OpenSCvx/OpenSCvx?style=flat-square&color=yellow">
+- https://github.com/martius-lab/diffmjx <img src="https://img.shields.io/github/stars/martius-lab/diffmjx?style=flat-square&color=yellow"> Informative contact gradients for MuJoCo XLA
+- https://github.com/martius-lab/mjx_diffrax <img src="https://img.shields.io/github/stars/martius-lab/mjx_diffrax?style=flat-square&color=yellow"> Adaptive time integration for MuJoCo MJX using diffrax
+- https://github.com/OpenSCvx/OpenSCvx/blob/main/openscvx/integrations/mjx.py <img src="https://img.shields.io/github/stars/OpenSCvx/OpenSCvx?style=flat-square&color=yellow"> A general python-based successive convexification implementation which uses a JAX backend
 
 ## MJW/WARP
 - https://mujoco.readthedocs.io/en/stable/mjwarp
 - [![](https://img.shields.io/badge/MJW-Tutorial-gray?style=flat-square&logo=googlecolab)](https://github.com/google-deepmind/mujoco_warp/blob/main/notebooks/tutorial.ipynb)
 - https://github.com/google-deepmind/mujoco_warp <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_warp?style=flat-square&color=yellow">
-- https://github.com/google-deepmind/mujoco_warp/blob/main/mujoco_warp/viewer.py - https://github.com/google-deepmind/mujoco/blob/main/mjx/mujoco/mjx/third_party/mujoco_warp/viewer.py (Unclear yet why duplicated?)
-- https://github.com/google-deepmind/mujoco/issues/2865
-- https://github.com/google-deepmind/mujoco_playground/discussions/197
-- https://github.com/mujocolab/mjlab <img src="https://img.shields.io/github/stars/mujocolab/mjlab?style=flat-square&color=yellow">
-  - https://github.com/mujocolab/mjlab_playground <img src="https://img.shields.io/github/stars/mujocolab/mjlab_playground?style=flat-square&color=yellow">
-- https://github.com/robosimstudio/robosimstudio <img src="https://img.shields.io/github/stars/robosimstudio/robosimstudio?style=flat-square&color=yellow">
+  - https://github.com/google-deepmind/mujoco_warp/discussions/categories/show-and-tell
+  - https://github.com/google-deepmind/mujoco_warp/blob/main/mujoco_warp/viewer.py - https://github.com/google-deepmind/mujoco/blob/main/mjx/mujoco/mjx/third_party/mujoco_warp/viewer.py (Unclear yet why duplicated?)
+  - https://github.com/google-deepmind/mujoco/issues/2865
+  - https://github.com/google-deepmind/mujoco_playground/discussions/197
+- https://github.com/mujocolab/mjlab <img src="https://img.shields.io/github/stars/mujocolab/mjlab?style=flat-square&color=yellow"> Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research  
+  - https://github.com/mujocolab/mjlab_playground <img src="https://img.shields.io/github/stars/mujocolab/mjlab_playground?style=flat-square&color=yellow"> A collection of tasks built on mjlab
+  - https://github.com/mujocolab/mjlab/discussions/categories/show-and-tell
+- https://github.com/robosimstudio/robosimstudio <img src="https://img.shields.io/github/stars/robosimstudio/robosimstudio?style=flat-square&color=yellow"> An open agentic toolkit for physics-based Real2Sim of Robot Manipulation Tasks
 - https://github.com/argonrobotics-ai/alloy <img src="https://img.shields.io/github/stars/argonrobotics-ai/alloy?style=flat-square&color=yellow"> Multi-material, GPU-parallel physics engine for robot learning (robots, cloth, cables, liquids, sand and soft bodies in one scene), built on MuJoCo Warp and Newton. Apache-2.0.
+- https://github.com/asu-iris/comfree_warp <img src="https://img.shields.io/github/stars/asu-iris/comfree_warp?style=flat-square&color=yellow"> A GPU-Parallel analytical contact physics engine based on MjWarp
 
 # Rollout
 <a id="rollout"/>
@@ -145,6 +148,7 @@ Eg:
 - https://github.com/google-deepmind/mujoco_menagerie/tree/main/umi_gripper
 - https://github.com/ARISE-Initiative/robosuite/tree/master/robosuite/models/assets/grippers
   - https://github.com/ARISE-Initiative/robosuite_models/tree/main/robosuite_models/assets/grippers
+- https://github.com/i2rt-robotics/i2rt/tree/main/i2rt/robot_models/gripper
 
 #### - Models: Gripper - Hand
 - https://github.com/dexsuite/dex-urdf (urdf only, convertible to mjcf)
@@ -175,6 +179,7 @@ Eg:
 - [SO-100/SO-101](https://github.com/TheRobotStudio/SO-ARM100) - [MJ Menagerie](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotstudio_so101)
 - [Jaco-ADA](https://github.com/personalrobotics/ada_assets) - [ADA](https://robotfeeding.io)
   - https://github.com/personalrobotics/ada_mj <img src="https://img.shields.io/github/stars/personalrobotics/ada_mj?style=flat-square&color=yellow">
+- [I2RT](https://github.com/i2rt-robotics/i2rt/tree/main/examples/control_with_mujoco) <img src="https://img.shields.io/github/stars/i2rt-robotics/i2rt?style=flat-square&color=yellow">
 
 ### - Models: Bimanual
 - https://github.com/google-deepmind/mujoco_menagerie/tree/main/aloha - https://aloha-2.github.io
@@ -196,7 +201,9 @@ Eg:
 
 ### - Models: Vehicle/Mobile
 - https://github.com/google-deepmind/mujoco/blob/main/model/car https://github.com/google-deepmind/mujoco/discussions/2392
+- https://github.com/ROBOTIS-GIT/robotis_mujoco_menagerie/tree/main/robotis_tb3 <img src="https://img.shields.io/github/stars/ROBOTIS-GIT/robotis_mujoco_menagerie?style=flat-square&color=yellow"> Turtlebot3
 - https://github.com/JunHeonYoon/mujoco_mecanum <img src="https://img.shields.io/github/stars/JunHeonYoon/mujoco_mecanum?style=flat-square&color=yellow">
+
 - https://github.com/UW-Advanced-Robotics-Lab/uwarl-mujoco-summit-wam-sim <img src="https://img.shields.io/github/stars/UW-Advanced-Robotics-Lab/uwarl-mujoco-summit-wam-sim?style=flat-square&color=yellow">
 - https://github.com/wenbin-hu/dual_ur5_husky_mujoco/tree/dual_ur5_husky_mujoco <img src="https://img.shields.io/github/stars/wenbin-hu/dual_ur5_husky_mujoco?style=flat-square&color=yellow">
 - https://github.com/joonhyung-lee/mujoco-robotics-usage/tree/main/asset/husky_ur5e <img src="https://img.shields.io/github/stars/joonhyung-lee/mujoco-robotics-usage?style=flat-square&color=yellow">
@@ -234,7 +241,7 @@ Eg:
 - https://github.com/well-robotics/STRIDE/tree/main/Software/ROS2/description  <img src="https://img.shields.io/github/stars/well-robotics/STRIDE?style=flat-square&color=yellow">
 - https://github.com/nico-bohlinger/one_policy_to_run_them_all/blob/main/one_policy_to_run_them_all/environments/nao_v5  <img src="https://img.shields.io/github/stars/nico-bohlinger/one_policy_to_run_them_all?style=flat-square&color=yellow">
 
-### - Models: Wheeled biped
+### - Models: Wheel-biped
 - https://github.com/upkie/upkie <img src="https://img.shields.io/github/stars/upkie/upkie?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Video-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCk-PWH0awCRPT3ZPeHeL1GA)
 - https://www.alex-hattori.com/blog/stride-mujoco-sim-no-arms
 - https://github.com/jaykorea/Isaac-RL-Two-wheel-Legged-Bot/tree/sim2sim_onnx/assets <img src="https://img.shields.io/github/stars/jaykorea/Isaac-RL-Two-wheel-Legged-Bot?style=flat-square&color=yellow">
@@ -322,6 +329,7 @@ Eg:
 - https://mujoco.readthedocs.io/en/stable/python.html#pysysid
   - [![](https://img.shields.io/badge/MJ-SysID-gray?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/mujoco/sysid/sysid.ipynb)
   - [reaf-sim](https://reaf-sim.readthedocs.io/en/latest/playground/sysid.html) https://github.com/google-deepmind/reaf-sim <img src="https://img.shields.io/github/stars/google-deepmind/reaf-sim?style=flat-square&color=yellow">
+  - https://github.com/google-deepmind/mujoco_playground/tree/main/mujoco_playground/tasks/sysid Fitting simulated joint dynamics to logged hardware trajectories via `mujoco.sysid`
 - https://github.com/based-robotics/mujoco-sysid <img src="https://img.shields.io/github/stars/based-robotics/mujoco-sysid?style=flat-square&color=yellow">
 
 # Hardware compatibility
@@ -363,8 +371,8 @@ Eg:
 - [Simulating box impact dynamics in MuJoCo](https://pure.tue.nl/ws/portalfiles/portal/212923254/1462253_Impacts_in_MuJoCo.pdf)
 - https://www.danaukes.com/work-blog/2024-03-11-double-pendulum-inverse
 - https://www.kwesirutledge.info/thoughts/mujoco1
-- https://github.com/StanfordASL/frax <img src="https://img.shields.io/github/stars/StanfordASL/frax?style=flat-square&color=yellow">
-- https://github.com/CoMMALab/pyroffi/tree/main/src/pyroffi/dynamics <img src="https://img.shields.io/github/stars/CoMMALab/pyroffi?style=flat-square&color=yellow">
+- https://github.com/StanfordASL/frax <img src="https://img.shields.io/github/stars/StanfordASL/frax?style=flat-square&color=yellow"> Fast Robot Kinematics and Dynamics in JAX
+- https://github.com/CoMMALab/pyroffi/tree/main/src/pyroffi/dynamics <img src="https://img.shields.io/github/stars/CoMMALab/pyroffi?style=flat-square&color=yellow"> A Python Library for Accelerated Rigid Body Motion Planning using JAX's Foreign Function Interface, branching off pyroki
   - https://github.com/CoMMALab/pyroffi/blob/main/examples/14_02_dynamics_sim_viser.py
 - https://github.com/Aditya-gam/RigidBody-Simulation <img src="https://img.shields.io/github/stars/Aditya-gam/RigidBody-Simulation?style=flat-square&color=yellow">
 - https://roboti.us/forum/index.php?resources/tennis-racket-theorem-dzhanibekov-effect.24/history [![](https://img.shields.io/badge/Dzhanibekov--effect-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/0Cxl67X5wfg)
@@ -374,7 +382,7 @@ Eg:
 - [![](https://img.shields.io/badge/Dominos-gray?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/tutorial.ipynb#scrollTo=-SW-K9WuPGrp) [![](https://img.shields.io/badge/Dominos-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/cE3s_IfO4g4)
 - https://github.com/felixokolo/MuJoCo_tutorials <img src="https://img.shields.io/github/stars/felixokolo/MuJoCo_tutorials?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Videos-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/LHh83AO2kmw&list=PLU23uiA8naECrR5CFstLKmvvlulWO70E-)
 - https://github.com/markov-studio-llc/markov-twin-fidelity-harness  <img src="https://img.shields.io/github/stars/markov-studio-llc/markov-twin-fidelity-harness?style=flat-square&color=yellow"> - https://github.com/google-deepmind/mujoco/discussions/3404
-- https://github.com/rai-opensource/effective_mass_analysis <img src="https://img.shields.io/github/stars/rai-opensource/effective_mass_analysis?style=flat-square&color=yellow">
+- https://github.com/rai-opensource/effective_mass_analysis <img src="https://img.shields.io/github/stars/rai-opensource/effective_mass_analysis?style=flat-square&color=yellow"> AthenaZero: a low-inertia, bimanual robot for dynamic manipulation
 
 ## - Gravity compensation
 - https://mujoco.readthedocs.io/en/stable/XMLreference.html#body-gravcomp -> mjData.qfrc_passive
@@ -392,13 +400,13 @@ Eg:
 
 ## - Contact
  - [Convex and analytically-invertible dynamics with contacts and constraints: Theory and implementation in MuJoCo, Prof. Todorov](https://www.roboti.us/book/file/TodorovICRA14.pdf)
- - https://mujoco.readthedocs.io/en/stable/computation/index.html#soft-contact-model
- - https://mujoco.readthedocs.io/en/stable/computation/index.html#contact constraint type
- - https://mujoco.readthedocs.io/en/stable/computation/index.html#collision-detection reporting active contacts
- - https://mujoco.readthedocs.io/en/stable/computation/index.html#friction-cones - https://scaron.info/robotics/friction-cones.html - [impratio](https://github.com/google-deepmind/mujoco/discussions/656): ratio of friction-to-normal contact impedance
- - https://mujoco.readthedocs.io/en/latest/modeling.html#contact-parameters
- - https://mujoco.readthedocs.io/en/latest/modeling.html#contact-override
-- [![](https://img.shields.io/badge/Surface--Level--Conveyor--Belt-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/PdSdrqhSiZA)
+  - https://mujoco.readthedocs.io/en/stable/computation/index.html#soft-contact-model
+  - https://mujoco.readthedocs.io/en/stable/computation/index.html#contact constraint type
+  - https://mujoco.readthedocs.io/en/stable/computation/index.html#collision-detection reporting active contacts
+  - https://mujoco.readthedocs.io/en/stable/computation/index.html#friction-cones - https://scaron.info/robotics/friction-cones.html - [impratio](https://github.com/google-deepmind/mujoco/discussions/656): ratio of friction-to-normal contact impedance
+  - https://mujoco.readthedocs.io/en/latest/modeling.html#contact-parameters
+  - https://mujoco.readthedocs.io/en/latest/modeling.html#contact-override
+ - [![](https://img.shields.io/badge/Surface--Level--Conveyor--Belt-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/PdSdrqhSiZA)
 
 ### - Contact: Hydroelastic
  - https://github.com/ubi-agni/mujoco_contact_surfaces <img src="https://img.shields.io/github/stars/ubi-agni/mujoco_contact_surfaces?style=flat-square&color=yellow"> - [Video](https://youtu.be/yD1ngkusXFA)
@@ -409,6 +417,8 @@ Eg:
  - https://mujoco.readthedocs.io/en/latest/computation/index.html#sleeping-islands [![](https://img.shields.io/badge/Sleeping--Islands-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/vct493lGQ8Q)
  - https://github.com/google-deepmind/mujoco/blob/main/test/engine/testdata/armature_equivalence.xml - [Joint armature](https://mujoco.readthedocs.io/en/stable/XMLreference.html#body-joint)
  - https://github.com/google-deepmind/mujoco/issues/278 Equality constraint bounciness
+ - https://github.com/asu-iris/comfree_warp <img src="https://img.shields.io/github/stars/asu-iris/comfree_warp?style=flat-square&color=yellow"> A GPU-Parallel analytical contact physics engine based on MjWarp
+ - https://github.com/robosimstudio/robosimstudio <img src="https://img.shields.io/github/stars/robosimstudio/robosimstudio?style=flat-square&color=yellow"> An open agentic toolkit for physics-based Real2Sim of Robot Manipulation Tasks
 
 # [Actuator](https://mujoco.readthedocs.io/en/latest/XMLreference.html#actuator)
 - https://github.com/google-deepmind/mujoco/tree/main/test/engine/testdata/actuation
@@ -439,11 +449,16 @@ Eg:
 - https://github.com/joonhyung-lee/mujoco-robotics-usage <img src="https://img.shields.io/github/stars/joonhyung-lee/mujoco-robotics-usage?style=flat-square&color=yellow">
 - https://github.com/luaiabuelsamen/VentionMotionPlanner <img src="https://img.shields.io/github/stars/luaiabuelsamen/VentionMotionPlanner?style=flat-square&color=yellow">
 - https://github.com/mpflueger/mujoco-ompl <img src="https://img.shields.io/github/stars/mpflueger/mujoco-ompl?style=flat-square&color=yellow">
-- https://github.com/zniihgnexy/niryo_project <img src="https://img.shields.io/github/stars/zniihgnexy/niryo_project?style=flat-square&color=yellow"> MuJoCo + LLM
 - https://github.com/bdaiinstitute/jacta-manipulation <img src="https://img.shields.io/github/stars/bdaiinstitute/jacta-manipulation?style=flat-square&color=yellow"> Dexterous + Whole-body planning
 - https://github.com/adlarkin/mjpl <img src="https://img.shields.io/github/stars/adlarkin/mjpl?style=flat-square&color=yellow"> utilizing [mink](https://github.com/kevinzakka/mink)
 - https://github.com/wisdomagboh/multi-object-grasping <img src="https://img.shields.io/github/stars/wisdomagboh/multi-object-grasping?style=flat-square&color=yellow"> https://sites.google.com/view/multi-object-grasping
 - https://github.com/personalrobotics/sscbirrt <img src="https://img.shields.io/github/stars/personalrobotics/sscbirrt?style=flat-square&color=yellow">
+
+## Motion planning: Agentic
+- https://github.com/google-deepmind/mujoco_playground/tree/main/mujoco_playground/tasks/agentic <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_playground?style=flat-square&color=yellow"> Sim2Real VLM Robot Manipulation
+- https://github.com/robosimstudio/robosimstudio <img src="https://img.shields.io/github/stars/robosimstudio/robosimstudio?style=flat-square&color=yellow"> Open, interactive simulation toolkit for rebuilding real robot manipulation tasks in simulation, by hand or with a coding agent
+- https://github.com/zniihgnexy/niryo_project <img src="https://img.shields.io/github/stars/zniihgnexy/niryo_project?style=flat-square&color=yellow"> MuJoCo + LLM
+- https://github.com/shaoanlu/llm_mjx_go1_playground <img src="https://img.shields.io/github/stars/shaoanlu/llm_mjx_go1_playground?style=flat-square&color=yellow"> MJX + LLM
 - https://github.com/ShaoxiongYao/simpact <img src="https://img.shields.io/github/stars/ShaoxiongYao/simpact?style=flat-square&color=yellow"> MuJoCo rollout + VLM
 
 # Control
@@ -483,16 +498,28 @@ Eg:
 - https://reflexivegrasp.github.io - https://arxiv.org/abs/2509.15876
 - https://github.com/byu-rad-lab/baloo-mujoco-sim/tree/main/src/baloo_mujoco_sim/controllers <img src="https://img.shields.io/github/stars/byu-rad-lab/baloo-mujoco-sim?style=flat-square&color=yellow">
 
-## - Control: Impedance
-- https://github.com/Joohwan-Seo/GUFIC_mujoco <img src="https://img.shields.io/github/stars/Joohwan-Seo/GUFIC_mujoco?style=flat-square&color=yellow">
-- https://github.com/Autrio/MuJoCo-Dual-Arm <img src="https://img.shields.io/github/stars/Autrio/MuJoCo-Dual-Arm?style=flat-square&color=yellow">
-- https://dualarmvil.github.io/Dual-Arm-VIL - https://arxiv.org/abs/2410.19712
-
-## Cartesian EE Control with Mocap using refsite & weld (handy but [specialized/non-versatile](https://github.com/google-deepmind/mujoco/discussions/1965#discussioncomment-10746639)) - [Alternatives](https://github.com/google-deepmind/mujoco/discussions/378#discussioncomment-3124521)
+## - Control: Cartesian EE with Mocap using refsite & weld (handy but [specialized/non-versatile](https://github.com/google-deepmind/mujoco/discussions/1965#discussioncomment-10746639)) - [Alternatives](https://github.com/google-deepmind/mujoco/discussions/378#discussioncomment-3124521)
 - [Site transmission](https://mujoco.readthedocs.io/en/stable/computation/index.html#transmission)
 - https://mujoco.readthedocs.io/en/stable/XMLreference.html#actuator-general-refsite - https://github.com/google-deepmind/mujoco/blob/main/test/engine/testdata/actuation/refsite.xml [![](https://img.shields.io/badge/Video-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/s-0JHanqV1A)
 - https://github.com/kevincheng3/mocap-control <img src="https://img.shields.io/github/stars/kevincheng3/mocap-control?style=flat-square&color=yellow">
 - https://github.com/mochan-b/mujoco_mocap_tutorial <img src="https://img.shields.io/github/stars/mochan-b/mujoco_mocap_tutorial?style=flat-square&color=yellow">
+
+## - Control: Operational Space Control (OSC)
+- https://github.com/kevinzakka/mjctrl/blob/main/opspace.py <img src="https://img.shields.io/github/stars/kevinzakka/mjctrl?style=flat-square&color=yellow">
+- https://github.com/StanfordASL/frax/blob/main/examples/control/osc_demo.py <img src="https://img.shields.io/github/stars/StanfordASL/frax?style=flat-square&color=yellow">
+  - https://github.com/StanfordASL/oscbf/blob/main/oscbf/core/controllers.py <img src="https://img.shields.io/github/stars/StanfordASL/oscbf?style=flat-square&color=yellow">
+- https://github.com/robosimstudio/robosimstudio/blob/main/robosimstudio/solvers/motion/osc.py <img src="https://img.shields.io/github/stars/robosimstudio/robosimstudio?style=flat-square&color=yellow">
+- https://github.com/ARISE-Initiative/robosuite/blob/master/robosuite/controllers/parts/arm/osc.py <img src="https://img.shields.io/github/stars/ARISE-Initiative/robosuite?style=flat-square&color=yellow">
+  - https://robosuite.ai/docs/modules/controllers.html#operational-space-control-pose-with-fixed-impedance 
+- https://github.com/ir-lab/bimanual-imitation/blob/main/irl_control/osc.py <img src="https://img.shields.io/github/stars/ir-lab/bimanual-imitation?style=flat-square&color=yellow">
+- https://github.com/DavidPL1/mujoco_ik_control <img src="https://img.shields.io/github/stars/DavidPL1/mujoco_ik_control?style=flat-square&color=yellow">
+- https://github.com/i2rt-robotics/i2rt/blob/main/i2rt/robots/arm7_osc.py <img src="https://img.shields.io/github/stars/i2rt-robotics/i2rt?style=flat-square&color=yellow"> I2RT YAM 7-dof arm OSC
+- https://github.com/peterdavidfagan/mujoco_controllers/blob/main/mujoco_controllers/osc.py <img src="https://img.shields.io/github/stars/peterdavidfagan/mujoco_controllers?style=flat-square&color=yellow">
+
+## - Control: Impedance
+- https://github.com/Joohwan-Seo/GUFIC_mujoco <img src="https://img.shields.io/github/stars/Joohwan-Seo/GUFIC_mujoco?style=flat-square&color=yellow"> Geometric Unified Force Impedance Control
+- https://github.com/Autrio/MuJoCo-Dual-Arm <img src="https://img.shields.io/github/stars/Autrio/MuJoCo-Dual-Arm?style=flat-square&color=yellow">
+  - https://dualarmvil.github.io/Dual-Arm-VIL - https://arxiv.org/abs/2410.19712
 
 # MPC
 - https://github.com/google-deepmind/mujoco_mpc <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_mpc?style=flat-square&color=yellow"> <img src="https://img.shields.io/github/languages/top/google-deepmind/mujoco_mpc">
@@ -506,23 +533,25 @@ Eg:
   - https://github.com/johnzhang3/mujoco_mpc_deploy <img src="https://img.shields.io/github/stars/johnzhang3/mujoco_mpc_deploy?style=flat-square&color=yellow">
   - https://github.com/alberthli/mujoco_mpc/tree/leap-hardware <img src="https://img.shields.io/github/stars/alberthli/mujoco_mpc?style=flat-square&color=yellow">
 - https://github.com/vincekurtz/hydrax <img src="https://img.shields.io/github/stars/vincekurtz/hydrax?style=flat-square&color=yellow"> MJX/W
-- https://github.com/A2R-Lab/GATO/blob/main/examples/14_mujoco_closed_loop.py <img src="https://img.shields.io/github/stars/A2R-Lab/GATO?style=flat-square&color=yellow"> CUDA
-- https://github.com/malik-group/do-as-i-do <img src="https://img.shields.io/github/stars/malik-group/do-as-i-do?style=flat-square&color=yellow"> MJW
-- https://github.com/iit-DLSLab/mpx <img src="https://img.shields.io/github/stars/iit-DLSLab/mpx?style=flat-square&color=yellow"> MJX
-- https://github.com/jrapudg/RTWholeBodyMPPI <img src="https://img.shields.io/github/stars/jrapudg/RTWholeBodyMPPI?style=flat-square&color=yellow"> MJ [rollout](#rollout)
+  - [![](https://img.shields.io/badge/hzyu17-PCEM--PO-black?style=flat-square&logo=github)](https://github.com/hzyu17/PCEM-PO) <img src="https://img.shields.io/github/stars/hzyu17/PCEM-PO?style=flat-square&color=yellow">
 - https://github.com/vincekurtz/gpc <img src="https://img.shields.io/github/stars/vincekurtz/gpc?style=flat-square&color=yellow"> MJX
-- https://github.com/bdaiinstitute/judo <img src="https://img.shields.io/github/stars/bdaiinstitute/judo?style=flat-square&color=yellow"> CEM, MPPI
-- https://github.com/LeCAR-Lab/dial-mpc <img src="https://img.shields.io/github/stars/LeCAR-Lab/dial-mpc?style=flat-square&color=yellow"> MJX
-- https://github.com/voltdog/mors_quadruped <img src="https://img.shields.io/github/stars/voltdog/mors_quadruped?style=flat-square&color=yellow"> CPP
-- https://github.com/AKS-Lab-Univertsity-of-Tartu/bimanual_manipulation <img src="https://img.shields.io/github/stars/AKS-Lab-Univertsity-of-Tartu/bimanual_manipulation?style=flat-square&color=yellow"> CEM MJX
+- https://github.com/A2R-Lab/GATO/blob/main/examples/14_mujoco_closed_loop.py <img src="https://img.shields.io/github/stars/A2R-Lab/GATO?style=flat-square&color=yellow"> [CUDA] GPU-Accelerated Trajectory Optimization
+- https://github.com/malik-group/do-as-i-do <img src="https://img.shields.io/github/stars/malik-group/do-as-i-do?style=flat-square&color=yellow"> MJW
+- https://github.com/iit-DLSLab/mpx <img src="https://img.shields.io/github/stars/iit-DLSLab/mpx?style=flat-square&color=yellow"> [MJX] MPC
+- https://github.com/jrapudg/RTWholeBodyMPPI <img src="https://img.shields.io/github/stars/jrapudg/RTWholeBodyMPPI?style=flat-square&color=yellow"> MJ [rollout](#rollout)
+- https://github.com/bdaiinstitute/judo <img src="https://img.shields.io/github/stars/bdaiinstitute/judo?style=flat-square&color=yellow"> [MuJoCo-C, MjWarp] A hackable sampling-based MPC toolbox
+- https://github.com/LeCAR-Lab/dial-mpc <img src="https://img.shields.io/github/stars/LeCAR-Lab/dial-mpc?style=flat-square&color=yellow"> [MJX] Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing
+- https://github.com/voltdog/mors_quadruped <img src="https://img.shields.io/github/stars/voltdog/mors_quadruped?style=flat-square&color=yellow"> [CPP] Open-source quadruped robot locomotion framework based on MPC+WBC with vision for suitable foothold selection. Simulated in MuJoCo and ROS2-compatible
+- https://github.com/AKS-Lab-Univertsity-of-Tartu/bimanual_manipulation <img src="https://img.shields.io/github/stars/AKS-Lab-Univertsity-of-Tartu/bimanual_manipulation?style=flat-square&color=yellow"> [CEM in MJX] ROS2 Humble package for dual arm manipulation with the sampling based planner
   - https://github.com/patsyuk03/thesis_2025 <img src="https://img.shields.io/github/stars/patsyuk03/thesis_2025?style=flat-square&color=yellow"> CEM MJX
 - https://github.com/mohakbhardwaj/mjmpc <img src="https://img.shields.io/github/stars/mohakbhardwaj/mjmpc?style=flat-square&color=yellow">
-- https://github.com/asu-iris/Complementarity-Free-Dexterous-Manipulation <img src="https://img.shields.io/github/stars/asu-iris/Complementarity-Free-Dexterous-Manipulation?style=flat-square&color=yellow">
-- https://github.com/asu-iris/ContactSDF <img src="https://img.shields.io/github/stars/asu-iris/ContactSDF?style=flat-square&color=yellow">
-- https://github.com/asu-iris/HSBC-Robust-Learning <img src="https://img.shields.io/github/stars/asu-iris/HSBC-Robust-Learning?style=flat-square&color=yellow">
+- https://github.com/asu-iris/comfree_warp <img src="https://img.shields.io/github/stars/asu-iris/comfree_warp?style=flat-square&color=yellow"> [MJW] A GPU-Parallel analytical physics engine with mujoco API compatibility
+- https://github.com/asu-iris/Complementarity-Free-Dexterous-Manipulation <img src="https://img.shields.io/github/stars/asu-iris/Complementarity-Free-Dexterous-Manipulation?style=flat-square&color=yellow"> [Casadi] Complementarity-Free Multi-Contact Modeling and Optimization for Dexterous Manipulation
+- https://github.com/asu-iris/ContactSDF <img src="https://img.shields.io/github/stars/asu-iris/ContactSDF?style=flat-square&color=yellow"> [Casadi] Signed Distance Functions as Multi-Contact Models for Dexterous Manipulation
+- https://github.com/asu-iris/HSBC-Robust-Learning <img src="https://img.shields.io/github/stars/asu-iris/HSBC-Robust-Learning?style=flat-square&color=yellow"> [MJX] MPPI + Adam/NaiveLangevin
 - https://github.com/giulioturrisi/Flywheel-Pendulum-Robot <img src="https://img.shields.io/github/stars/giulioturrisi/Flywheel-Pendulum-Robot?style=flat-square&color=yellow">
 - [Table Tennis Juggling using Model Predictive Control, David Nguyen](https://youtu.be/Hjnrpu2iN20)
-- https://github.com/byu-rad-lab/baloo-mujoco-sim/tree/main/src/baloo_mujoco_sim/controllers/mpc <img src="https://img.shields.io/github/stars/byu-rad-lab/baloo-mujoco-sim?style=flat-square&color=yellow">
+- https://github.com/byu-rad-lab/baloo-mujoco-sim/tree/main/src/baloo_mujoco_sim/controllers/mpc <img src="https://img.shields.io/github/stars/byu-rad-lab/baloo-mujoco-sim?style=flat-square&color=yellow"> multiprocessing-Pool/ThreadPool
 
 <b>MPC: Humanoid </b>
 - Using [pinocchio](https://github.com/stack-of-tasks/pinocchio)
@@ -571,6 +600,12 @@ Eg:
 - https://github.com/Co-Evolve/moojoco <img src="https://img.shields.io/github/stars/Co-Evolve/moojoco?style=flat-square&color=yellow">
 - https://github.com/Tsinghua-Space-Robot-Learning-Group/SpaceRobotEnv <img src="https://img.shields.io/github/stars/Tsinghua-Space-Robot-Learning-Group/SpaceRobotEnv?style=flat-square&color=yellow">
   - https://github.com/Tsinghua-Space-Robot-Learning-Group/SpaceOctopus <img src="https://img.shields.io/github/stars/Tsinghua-Space-Robot-Learning-Group/SpaceOctopus?style=flat-square&color=yellow">
+
+## RL: Sim2Real Deployment
+- https://github.com/google-deepmind/mujoco_playground/tree/main/mujoco_playground/tasks/manipulation/pick_cube/so101/deploy [MuJoCo Playground] Sim2Real Training & Deployment
+- https://github.com/RobotControlStack/robot-control-stack <img src="https://img.shields.io/github/stars/RobotControlStack/robot-control-stack?style=flat-square&color=yellow"> A lean, ROS-free sim-to-real framework for training and deploying Vision-Language-Action (VLA) models and RL agents
+- https://github.com/BoosterRobotics/booster_deploy <img src="https://img.shields.io/github/stars/BoosterRobotics/booster_deploy?style=flat-square&color=yellow"> An easy-to-use deployment framework that enables seamlessly running the same policy code in both simulation and on real robots
+- https://github.com/sagecodes/ai-build-and-learn/tree/main/topics/rl-mujoco <img src="https://img.shields.io/github/stars/sagecodes/ai-build-and-learn?style=flat-square&color=yellow">
 
 ## RL: Arm/Hand
 - https://libero-project.github.io https://github.com/Lifelong-Robot-Learning/LIBERO <img src="https://img.shields.io/github/stars/Lifelong-Robot-Learning/LIBERO?style=flat-square&color=yellow">
@@ -683,6 +718,7 @@ Eg:
 - https://github.com/varadVaidya/cf2_mujoco <img src="https://img.shields.io/github/stars/varadVaidya/cf2_mujoco?style=flat-square&color=yellow">
 - https://github.com/alefram/ingenuity-mujoco <img src="https://img.shields.io/github/stars/alefram/ingenuity-mujoco?style=flat-square&color=yellow">
 - https://github.com/alextitonis/fly.ai/tree/main/drone <img src="https://img.shields.io/github/stars/alextitonis/fly.ai?style=flat-square&color=yellow"> Whole fruit-fly connectome (MaleCNS, 166,700 neurons) pilots the Menagerie Crazyflie 2, no training
+  - https://github.com/sagecodes/ai-build-and-learn/tree/main/topics/fruit-fly <img src="https://img.shields.io/github/stars/sagecodes/ai-build-and-learn?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Flying--moth-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/PHBy739CqGI)
 
 ## RL: Vehicle
@@ -722,7 +758,9 @@ Eg:
 
 # Teleoperation/Motion-Tracking/Retargeting
 
-- https://github.com/google-deepmind/mujoco_playground <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_playground?style=flat-square&color=yellow">
+- https://github.com/google-deepmind/mujoco_playground/tree/main/mujoco_playground/tasks/whole_body/tracking <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_playground?style=flat-square&color=yellow">
+  - https://github.com/google-deepmind/mujoco_playground/tree/main/mujoco_playground/tasks/teleop
+- https://github.com/asu-iris/comfree_warp <img src="https://img.shields.io/github/stars/asu-iris/comfree_warp?style=flat-square&color=yellow">
 - https://github.com/YanjieZe/GMR <img src="https://img.shields.io/github/stars/YanjieZe/GMR?style=flat-square&color=yellow">
   - https://github.com/YanjieZe/TWIST <img src="https://img.shields.io/github/stars/YanjieZe/TWIST?style=flat-square&color=yellow"> - [TwistData](https://twist-data.github.io)
   - https://github.com/amazon-far/TWIST2 <img src="https://img.shields.io/github/stars/amazon-far/TWIST2?style=flat-square&color=yellow">
@@ -732,6 +770,7 @@ Eg:
   - https://github.com/CoMMALab/pyroffi/tree/main/examples <img src="https://img.shields.io/github/stars/CoMMALab/pyroffi?style=flat-square&color=yellow"> JAX FFI
 - https://github.com/StanfordASL/frax <img src="https://img.shields.io/github/stars/StanfordASL/frax?style=flat-square&color=yellow"> JAX
 - https://github.com/TrossenRobotics/trossen_arm_mujoco <img src="https://img.shields.io/github/stars/TrossenRobotics/trossen_arm_mujoco?style=flat-square&color=yellow">
+- https://github.com/i2rt-robotics/i2rt <img src="https://img.shields.io/github/stars/i2rt-robotics/i2rt?style=flat-square&color=yellow">
 - https://github.com/GalaxyGeneralRobotics/OpenTrack <img src="https://img.shields.io/github/stars/GalaxyGeneralRobotics/OpenTrack?style=flat-square&color=yellow">
 - https://github.com/omarrayyann/TeleDex <img src="https://img.shields.io/github/stars/omarrayyann/TeleDex?style=flat-square&color=yellow">
 - https://github.com/BotRunner64/Teleopit <img src="https://img.shields.io/github/stars/BotRunner64/Teleopit?style=flat-square&color=yellow">
