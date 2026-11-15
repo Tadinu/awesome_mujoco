@@ -331,6 +331,7 @@ Eg:
   - [reaf-sim](https://reaf-sim.readthedocs.io/en/latest/playground/sysid.html) https://github.com/google-deepmind/reaf-sim <img src="https://img.shields.io/github/stars/google-deepmind/reaf-sim?style=flat-square&color=yellow">
   - https://github.com/google-deepmind/mujoco_playground/tree/main/mujoco_playground/tasks/sysid Fitting simulated joint dynamics to logged hardware trajectories via `mujoco.sysid`
 - https://github.com/based-robotics/mujoco-sysid <img src="https://img.shields.io/github/stars/based-robotics/mujoco-sysid?style=flat-square&color=yellow">
+- https://github.com/WhymustIhaveaname/R4R <img src="https://img.shields.io/github/stars/WhymustIhaveaname/R4R?style=flat-square&color=yellow"> - https://arxiv.org/abs/2607.24079 -> Effective PD gains and joint inertia that depend on the simulation timestep, tested in MuJoCo, MuJoCo Warp and Isaac Sim
 
 # Hardware compatibility
 - https://github.com/Muhammad540/Torq <img src="https://img.shields.io/github/stars/Muhammad540/Torq?style=flat-square&color=yellow">
