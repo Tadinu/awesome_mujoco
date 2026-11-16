@@ -334,7 +334,8 @@ Eg:
 - https://github.com/WhymustIhaveaname/R4R <img src="https://img.shields.io/github/stars/WhymustIhaveaname/R4R?style=flat-square&color=yellow"> - https://arxiv.org/abs/2607.24079 -> Effective PD gains and joint inertia that depend on the simulation timestep, tested in MuJoCo, MuJoCo Warp and Isaac Sim
 
 # Hardware compatibility
-- https://github.com/Muhammad540/Torq <img src="https://img.shields.io/github/stars/Muhammad540/Torq?style=flat-square&color=yellow">
+- https://github.com/google-deepmind/dm_robotics <img src="https://img.shields.io/github/stars/google-deepmind/dm_robotics?style=flat-square&color=yellow"> C++, Python
+- https://github.com/Muhammad540/Torq <img src="https://img.shields.io/github/stars/Muhammad540/Torq?style=flat-square&color=yellow"> C++ with Pinocchio, OSQP
 - https://github.com/BarisYazici/libfranka-sim <img src="https://img.shields.io/github/stars/BarisYazici/libfranka-sim?style=flat-square&color=yellow">
 - https://github.com/JeanElsner/dm_robotics_panda <img src="https://img.shields.io/github/stars/JeanElsner/dm_robotics_panda?style=flat-square&color=yellow">
 - https://github.com/ZC502/SIPA <img src="https://img.shields.io/github/stars/ZC502/SIPA?style=flat-square&color=yellow"> - https://github.com/google-deepmind/mujoco/discussions/3151
@@ -612,6 +613,7 @@ Eg:
 
 ## RL: Sim2Real Deployment
 - https://github.com/google-deepmind/mujoco_playground/tree/main/mujoco_playground/tasks/manipulation/pick_cube/so101/deploy [MuJoCo Playground] Sim2Real Training & Deployment
+  - https://github.com/open-planning/roboplan-lerobot <img src="https://img.shields.io/github/stars/open-planning/roboplan-lerobot-stack?style=flat-square&color=yellow">
 - https://github.com/RobotControlStack/robot-control-stack <img src="https://img.shields.io/github/stars/RobotControlStack/robot-control-stack?style=flat-square&color=yellow"> A lean, ROS-free sim-to-real framework for training and deploying Vision-Language-Action (VLA) models and RL agents
 - https://github.com/BoosterRobotics/booster_deploy <img src="https://img.shields.io/github/stars/BoosterRobotics/booster_deploy?style=flat-square&color=yellow"> An easy-to-use deployment framework that enables seamlessly running the same policy code in both simulation and on real robots
 - https://github.com/sagecodes/ai-build-and-learn/tree/main/topics/rl-mujoco <img src="https://img.shields.io/github/stars/sagecodes/ai-build-and-learn?style=flat-square&color=yellow">
@@ -749,7 +751,8 @@ Eg:
 - https://robosuite.ai - https://github.com/ARISE-Initiative/robosuite-task-zoo <img src="https://img.shields.io/github/stars/ARISE-Initiative/robosuite-task-zoo?style=flat-square&color=yellow">
 - https://robomimic.github.io
 - https://github.com/isri-aist/RoboManipBaselines <img src="https://img.shields.io/github/stars/isri-aist/RoboManipBaselines?style=flat-square&color=yellow">
-- https://github.com/jeongeun980906/lerobot-mujoco-tutorial <img src="https://img.shields.io/github/stars/jeongeun980906/lerobot-mujoco-tutorial?style=flat-square&color=yellow">ACT (Action-Chunking-Transformer)
+- https://github.com/open-planning/roboplan-lerobot <img src="https://img.shields.io/github/stars/open-planning/roboplan-lerobot-stack?style=flat-square&color=yellow">
+  - https://github.com/jeongeun980906/lerobot-mujoco-tutorial <img src="https://img.shields.io/github/stars/jeongeun980906/lerobot-mujoco-tutorial?style=flat-square&color=yellow">ACT (Action-Chunking-Transformer)
 - https://github.com/ir-lab/bimanual-imitation <img src="https://img.shields.io/github/stars/ir-lab/bimanual-imitation?style=flat-square&color=yellow">
 - https://github.com/RobotControlStack/duobench <img src="https://img.shields.io/github/stars/RobotControlStack/duobench?style=flat-square&color=yellow">
 - https://github.com/NVlabs/Optimus <img src="https://img.shields.io/github/stars/NVlabs/Optimus?style=flat-square&color=yellow">
@@ -906,7 +909,6 @@ with Xvfb(width=720, height=4801080) as xvfb: # -> xvfb will delete its own lock
 - https://github.com/A2R-Lab/indy7-sdk/blob/main/src/mujoco_sim/src/mujoco_sim_node.cpp <img src="https://img.shields.io/github/stars/A2R-Lab/indy7-sdk?style=flat-square&color=yellow">
 
 # Utils
-- https://github.com/google-deepmind/dm_robotics
 - https://github.com/gbionics/mujoco-robotics-uri <img src="https://img.shields.io/github/stars/gbionics/mujoco-robotics-uri?style=flat-square&color=yellow"> MuJoCo resource provider plugin to resolve package://, model:// or robot:// URIs commonly used in robotics
 - https://github.com/vocdex/crazy-rotations <img src="https://img.shields.io/github/stars/vocdex/crazy-rotations?style=flat-square&color=yellow">
 - https://github.com/MGross21/mujoco-toolbox <img src="https://img.shields.io/github/stars/MGross21/mujoco-toolbox?style=flat-square&color=yellow">
