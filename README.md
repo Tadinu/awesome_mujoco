@@ -40,7 +40,7 @@
 - MJX Viewer: https://github.com/google-deepmind/mujoco/blob/main/mjx/mujoco/mjx/viewer.py
 - https://github.com/google-deepmind/mujoco/issues/2813
 - https://github.com/google/brax <img src="https://img.shields.io/github/stars/google/brax?style=flat-square&color=yellow"> Massively parallel rigidbody physics simulation on accelerator hardware
-- https://github.com/ami-iit/jaxsim <img src="https://img.shields.io/github/stars/ami-iit/jaxsim?style=flat-square&color=yellow"> A differentiable physics engine and multibody dynamics library for control and robot learning
+- https://github.com/gbionics/jaxsim <img src="https://img.shields.io/github/stars/gbionics/jaxsim?style=flat-square&color=yellow"> A differentiable physics engine and multibody dynamics library for control and robot learning
 - https://github.com/patsyuk03/MJX_Tutorial <img src="https://img.shields.io/github/stars/patsyuk03/MJX_Tutorial?style=flat-square&color=yellow">
 - https://github.com/martius-lab/diffmjx <img src="https://img.shields.io/github/stars/martius-lab/diffmjx?style=flat-square&color=yellow"> Informative contact gradients for MuJoCo XLA
 - https://github.com/martius-lab/mjx_diffrax <img src="https://img.shields.io/github/stars/martius-lab/mjx_diffrax?style=flat-square&color=yellow"> Adaptive time integration for MuJoCo MJX using diffrax
@@ -367,14 +367,21 @@ Eg:
 - https://mujoco.readthedocs.io/en/stable/programming/simulation.html#forward-dynamics
 - https://mujoco.readthedocs.io/en/stable/programming/simulation.html#inverse-dynamics
 - https://mujoco.readthedocs.io/en/stable/programming/simulation.html#jacobians
+- `qvel, qacc`'s frames: https://github.com/google-deepmind/mujoco/issues/691
+- `mj_objectVelocity(), mj_objectAcceleration()`'s frames: https://mujoco.readthedocs.io/en/stable/programming/simulation.html#coordinate-frames-and-transformations
+  - https://hzhu.io/notes/spatial-velocity-is-a-velocity-field
+  - https://modernrobotics.northwestern.edu/nu-gm-book-resource/3-3-2-twists-part-1-of-2
+  - https://royfeatherstone.org/teaching/index.html
+  - https://manipulation.csail.mit.edu/spatial.html
 - [![](https://img.shields.io/badge/Fluttering--card-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/nljr0X79vI0) [Ellipsoidal fluid model](https://mujoco.readthedocs.io/en/latest/computation/fluid.html)
 - https://github.com/commanderxa/alphalabs <img src="https://img.shields.io/github/stars/commanderxa/alphalabs?style=flat-square&color=yellow">
 - [Simulating box impact dynamics in MuJoCo](https://pure.tue.nl/ws/portalfiles/portal/212923254/1462253_Impacts_in_MuJoCo.pdf)
 - https://www.danaukes.com/work-blog/2024-03-11-double-pendulum-inverse
 - https://www.kwesirutledge.info/thoughts/mujoco1
-- https://github.com/gbionics/adam <img src="https://img.shields.io/github/stars/gbionics/adam?style=flat-square&color=yellow"> Algos for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy
+- [![](https://img.shields.io/badge/gbionics-adam-black?style=flat-square&logo=github)](https://github.com/gbionics/adam) <img src="https://img.shields.io/github/stars/gbionics/adam?style=flat-square&color=yellow"> Algos for calculating rigid-body dynamics in Jax, CasADi, PyTorch, and Numpy
+  - [![](https://img.shields.io/badge/gbionics-jaxsim-black?style=flat-square&logo=github)](https://github.com/gbionics/jaxsim) <img src="https://img.shields.io/github/stars/gbionics/jaxsim?style=flat-square&color=yellow">A differentiable physics engine and multibody dynamics library for control and robot learning in JAX
 - https://github.com/StanfordASL/frax <img src="https://img.shields.io/github/stars/StanfordASL/frax?style=flat-square&color=yellow"> Fast Robot Kinematics and Dynamics in JAX
-- https://github.com/CoMMALab/pyroffi/tree/main/src/pyroffi/dynamics <img src="https://img.shields.io/github/stars/CoMMALab/pyroffi?style=flat-square&color=yellow"> A Python Library for Accelerated Rigid Body Motion Planning using JAX's Foreign Function Interface, branching off pyroki
+- https://github.com/CoMMALab/pyroffi/tree/main/src/pyroffi/dynamics <img src="https://img.shields.io/github/stars/CoMMALab/pyroffi?style=flat-square&color=yellow"> A Python Library for Accelerated Rigid Body Motion Planning using JAX's FFI (Foreign Function Interface), branching off pyroki
   - https://github.com/CoMMALab/pyroffi/blob/main/examples/14_02_dynamics_sim_viser.py
 - https://github.com/Aditya-gam/RigidBody-Simulation <img src="https://img.shields.io/github/stars/Aditya-gam/RigidBody-Simulation?style=flat-square&color=yellow">
 - https://roboti.us/forum/index.php?resources/tennis-racket-theorem-dzhanibekov-effect.24/history [![](https://img.shields.io/badge/Dzhanibekov--effect-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/0Cxl67X5wfg)
@@ -626,6 +633,7 @@ Eg:
 - https://github.com/lsp-yh/RL-Robot-Manipulation <img src="https://img.shields.io/github/stars/lsp-yh/RL-Robot-Manipulation?style=flat-square&color=yellow">
 - https://github.com/ian-chuang/homestri-ur5e-rl <img src="https://img.shields.io/github/stars/ian-chuang/homestri-ur5e-rl?style=flat-square&color=yellow">
 - https://github.com/PaulDanielML/MuJoCo_RL_UR5 <img src="https://img.shields.io/github/stars/PaulDanielML/MuJoCo_RL_UR5?style=flat-square&color=yellow">
+- https://github.com/merlresearch/MC-PILCO/blob/main/test_mcpilco_ur5_mujoco.py <img src="https://img.shields.io/github/stars/merlresearch/MC-PILCO?style=flat-square&color=yellow">
 - https://github.com/JadeCong/Robotic-Softbody-Manipulation <img src="https://img.shields.io/github/stars/JadeCong/Robotic-Softbody-Manipulation?style=flat-square&color=yellow">
 - https://github.com/hhanzifei/Manipulator-Mujoco-dm_control <img src="https://img.shields.io/github/stars/hhanzifei/Manipulator-Mujoco-dm_control?style=flat-square&color=yellow">
 - https://github.com/Learning-in-robotics/kinova_learning <img src="https://img.shields.io/github/stars/Learning-in-robotics/kinova_learning?style=flat-square&color=yellow">
