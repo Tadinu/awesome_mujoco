@@ -58,7 +58,7 @@
   - https://github.com/mujocolab/mjlab_playground <img src="https://img.shields.io/github/stars/mujocolab/mjlab_playground?style=flat-square&color=yellow"> A collection of tasks built on mjlab
   - https://github.com/mujocolab/mjlab/discussions/categories/show-and-tell
 - https://github.com/robosimstudio/robosimstudio <img src="https://img.shields.io/github/stars/robosimstudio/robosimstudio?style=flat-square&color=yellow"> An open agentic toolkit for physics-based Real2Sim of Robot Manipulation Tasks
-- https://github.com/argonrobotics-ai/alloy <img src="https://img.shields.io/github/stars/argonrobotics-ai/alloy?style=flat-square&color=yellow"> Multi-material, GPU-parallel physics engine for robot learning (robots, cloth, cables, liquids, sand and soft bodies in one scene), built on MuJoCo Warp and Newton. Apache-2.0.
+- https://github.com/argonrobotics-ai/alloy <img src="https://img.shields.io/github/stars/argonrobotics-ai/alloy?style=flat-square&color=yellow"> Multi-material, GPU-parallel physics engine for robot learning (robots, cloth, cables, liquids, sand and soft bodies), built on MuJoCo Warp and Newton. Apache-2.0.
 - https://github.com/asu-iris/comfree_warp <img src="https://img.shields.io/github/stars/asu-iris/comfree_warp?style=flat-square&color=yellow"> A GPU-Parallel analytical contact physics engine based on MjWarp
 
 # Rollout
