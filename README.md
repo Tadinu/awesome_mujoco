@@ -715,6 +715,7 @@ Eg:
 - https://github.com/BDX-R/BDX-R-MjLab <img src="https://img.shields.io/github/stars/BDX-R/BDX-R-MjLab?style=flat-square&color=yellow">
 - https://github.com/spaethli/biped_hrl <img src="https://img.shields.io/github/stars/spaethli/biped_hrl?style=flat-square&color=yellow">
 - https://github.com/Vottivott/microduck-playground <img src="https://img.shields.io/github/stars/Vottivott/microduck-playground?style=flat-square&color=yellow">
+- https://github.com/AungKaung1928/microduck-rl <img src="https://img.shields.io/github/stars/AungKaung1928/microduck-rl?style=flat-square&color=yellow">
 
 ## RL: Underactuated-Quadruped
 - [![](https://img.shields.io/badge/MJ-Playground--Quadrupedal-gray?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/google-deepmind/mujoco_playground/blob/main/learning/notebooks/locomotion.ipynb#scrollTo=_R01tjWfI-i6)
