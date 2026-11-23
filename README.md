@@ -419,6 +419,7 @@ Eg:
   - https://mujoco.readthedocs.io/en/latest/modeling.html#contact-override
  - [![](https://img.shields.io/badge/Surface--Level--Conveyor--Belt-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/PdSdrqhSiZA)
  - https://github.com/WhymustIhaveaname/elastra <img src="https://img.shields.io/github/stars/WhymustIhaveaname/elastra?style=flat-square&color=yellow"> - https://arxiv.org/abs/2611.15112 -> MuJoCo simulation of elastic surfaces such as mattresses and trampolines, for training robot policies
+   - https://github.com/yichg/elastra <img src="https://img.shields.io/github/stars/yichg/elastra?style=flat-square&color=yellow">
 
 ### - Contact: Hydroelastic
  - https://github.com/ubi-agni/mujoco_contact_surfaces <img src="https://img.shields.io/github/stars/ubi-agni/mujoco_contact_surfaces?style=flat-square&color=yellow"> - [Video](https://youtu.be/yD1ngkusXFA)
