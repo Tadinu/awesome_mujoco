@@ -61,6 +61,7 @@
 - https://github.com/robosimstudio/robosimstudio <img src="https://img.shields.io/github/stars/robosimstudio/robosimstudio?style=flat-square&color=yellow"> An open agentic toolkit for physics-based Real2Sim of Robot Manipulation Tasks
 - https://github.com/argonrobotics-ai/alloy <img src="https://img.shields.io/github/stars/argonrobotics-ai/alloy?style=flat-square&color=yellow"> Multi-material, GPU-parallel physics engine for robot learning (robots, cloth, cables, liquids, sand and soft bodies), built on MuJoCo Warp and Newton. Apache-2.0.
 - https://github.com/asu-iris/comfree_warp <img src="https://img.shields.io/github/stars/asu-iris/comfree_warp?style=flat-square&color=yellow"> A GPU-Parallel analytical contact physics engine based on MjWarp
+- https://github.com/martius-lab/lodos <img src="https://img.shields.io/github/stars/martius-lab/lodos?style=flat-square&color=yellow"> A research codebase for running massively parallelized simulations of rigid-body dynamics with contact
 
 # Rollout
 <a id="rollout"/>
@@ -402,36 +403,37 @@ Eg:
 - https://github.com/google-deepmind/mujoco/blob/main/model/balloons/balloons.xml [![](https://img.shields.io/badge/Baloons-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/-PJ6afdETUg) Gravity over-compensation (buoyancy)
 
 ## - Constraints
- - https://mujoco.readthedocs.io/en/stable/computation/index.html#constraint-model
- - https://mujoco.readthedocs.io/en/stable/computation/index.html#constraint-solver
- - [![](https://img.shields.io/badge/connect--and--weld--using--sites-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/kcM_oauk3ZA)
- - [![](https://img.shields.io/badge/Constraint--islands-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/Vc1tq0fFvQA)
- - https://github.com/google-deepmind/mujoco/blob/main/test/engine/testdata/catenary.xml [![](https://img.shields.io/badge/Catenary-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/I2q7D0Vda-A)
- - https://github.com/google-deepmind/mujoco/blob/main/test/engine/testdata/weld.xml
+- https://mujoco.readthedocs.io/en/stable/computation/index.html#constraint-model
+- https://mujoco.readthedocs.io/en/stable/computation/index.html#constraint-solver
+- [![](https://img.shields.io/badge/connect--and--weld--using--sites-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/kcM_oauk3ZA)
+- [![](https://img.shields.io/badge/Constraint--islands-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/Vc1tq0fFvQA)
+- https://github.com/google-deepmind/mujoco/blob/main/test/engine/testdata/catenary.xml [![](https://img.shields.io/badge/Catenary-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/I2q7D0Vda-A)
+- https://github.com/google-deepmind/mujoco/blob/main/test/engine/testdata/weld.xml
 
 ## - Contact
- - [Convex and analytically-invertible dynamics with contacts and constraints: Theory and implementation in MuJoCo, Prof. Todorov](https://www.roboti.us/book/file/TodorovICRA14.pdf)
-  - https://mujoco.readthedocs.io/en/stable/computation/index.html#soft-contact-model
-  - https://mujoco.readthedocs.io/en/stable/computation/index.html#contact constraint type
-  - https://mujoco.readthedocs.io/en/stable/computation/index.html#collision-detection reporting active contacts
-  - https://mujoco.readthedocs.io/en/stable/computation/index.html#friction-cones - https://scaron.info/robotics/friction-cones.html - [impratio](https://github.com/google-deepmind/mujoco/discussions/656): ratio of friction-to-normal contact impedance
+- [Convex and analytically-invertible dynamics with contacts and constraints: Theory and implementation in MuJoCo, Prof. Todorov](https://www.roboti.us/book/file/TodorovICRA14.pdf)
+- https://mujoco.readthedocs.io/en/stable/computation/index.html#soft-contact-model
+- https://mujoco.readthedocs.io/en/stable/computation/index.html#contact constraint type
+- https://mujoco.readthedocs.io/en/stable/computation/index.html#collision-detection reporting active contacts
+- https://mujoco.readthedocs.io/en/stable/computation/index.html#friction-cones - https://scaron.info/robotics/friction-cones.html - [impratio](https://github.com/google-deepmind/mujoco/discussions/656): ratio of friction-to-normal contact impedance
   - https://mujoco.readthedocs.io/en/latest/modeling.html#contact-parameters
   - https://mujoco.readthedocs.io/en/latest/modeling.html#contact-override
- - [![](https://img.shields.io/badge/Surface--Level--Conveyor--Belt-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/PdSdrqhSiZA)
- - https://github.com/WhymustIhaveaname/elastra <img src="https://img.shields.io/github/stars/WhymustIhaveaname/elastra?style=flat-square&color=yellow"> - https://arxiv.org/abs/2611.15112 -> MuJoCo simulation of elastic surfaces such as mattresses and trampolines, for training robot policies
+- [![](https://img.shields.io/badge/Surface--Level--Conveyor--Belt-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/PdSdrqhSiZA)
+- https://github.com/martius-lab/lodos <img src="https://img.shields.io/github/stars/martius-lab/lodos?style=flat-square&color=yellow"> A research codebase for running massively parallelized simulations of rigid-body dynamics with contact
+- https://github.com/WhymustIhaveaname/elastra <img src="https://img.shields.io/github/stars/WhymustIhaveaname/elastra?style=flat-square&color=yellow"> - https://arxiv.org/abs/2611.15112 -> MuJoCo simulation of elastic surfaces such as mattresses and trampolines, for training robot policies
    - https://github.com/yichg/elastra <img src="https://img.shields.io/github/stars/yichg/elastra?style=flat-square&color=yellow">
 
 ### - Contact: Hydroelastic
- - https://github.com/ubi-agni/mujoco_contact_surfaces <img src="https://img.shields.io/github/stars/ubi-agni/mujoco_contact_surfaces?style=flat-square&color=yellow"> - [Video](https://youtu.be/yD1ngkusXFA)
- - https://github.com/ubi-agni/mujoco_ros_demos/tree/noetic-devel/hydroelastic_contacts <img src="https://img.shields.io/github/stars/ubi-agni/mujoco_ros_demos?style=flat-square&color=yellow">
+- https://github.com/ubi-agni/mujoco_contact_surfaces <img src="https://img.shields.io/github/stars/ubi-agni/mujoco_contact_surfaces?style=flat-square&color=yellow"> - [Video](https://youtu.be/yD1ngkusXFA)
+- https://github.com/ubi-agni/mujoco_ros_demos/tree/noetic-devel/hydroelastic_contacts <img src="https://img.shields.io/github/stars/ubi-agni/mujoco_ros_demos?style=flat-square&color=yellow">
 
 ## - Stability / Performance
- - https://mujoco.readthedocs.io/en/stable/modeling.html#tips-and-tricks
- - https://mujoco.readthedocs.io/en/latest/computation/index.html#sleeping-islands [![](https://img.shields.io/badge/Sleeping--Islands-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/vct493lGQ8Q)
- - https://github.com/google-deepmind/mujoco/blob/main/test/engine/testdata/armature_equivalence.xml - [Joint armature](https://mujoco.readthedocs.io/en/stable/XMLreference.html#body-joint)
- - https://github.com/google-deepmind/mujoco/issues/278 Equality constraint bounciness
- - https://github.com/asu-iris/comfree_warp <img src="https://img.shields.io/github/stars/asu-iris/comfree_warp?style=flat-square&color=yellow"> A GPU-Parallel analytical contact physics engine based on MjWarp
- - https://github.com/robosimstudio/robosimstudio <img src="https://img.shields.io/github/stars/robosimstudio/robosimstudio?style=flat-square&color=yellow"> An open agentic toolkit for physics-based Real2Sim of Robot Manipulation Tasks
+- https://mujoco.readthedocs.io/en/stable/modeling.html#tips-and-tricks
+- https://mujoco.readthedocs.io/en/latest/computation/index.html#sleeping-islands [![](https://img.shields.io/badge/Sleeping--Islands-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/vct493lGQ8Q)
+- https://github.com/google-deepmind/mujoco/blob/main/test/engine/testdata/armature_equivalence.xml - [Joint armature](https://mujoco.readthedocs.io/en/stable/XMLreference.html#body-joint)
+- https://github.com/google-deepmind/mujoco/issues/278 Equality constraint bounciness
+- https://github.com/asu-iris/comfree_warp <img src="https://img.shields.io/github/stars/asu-iris/comfree_warp?style=flat-square&color=yellow"> A GPU-Parallel analytical contact physics engine based on MjWarp
+- https://github.com/robosimstudio/robosimstudio <img src="https://img.shields.io/github/stars/robosimstudio/robosimstudio?style=flat-square&color=yellow"> An open agentic toolkit for physics-based Real2Sim of Robot Manipulation Tasks
 
 # [Actuator](https://mujoco.readthedocs.io/en/latest/XMLreference.html#actuator)
 - https://github.com/google-deepmind/mujoco/tree/main/test/engine/testdata/actuation
